@@ -1,0 +1,1001 @@
+,eventName,numberPlate,ownerName,speedLimit,speedDetected,OwnerAge,vehicleRegistrationYear,carBrand
+0,Not Wearing Seat Belts,PB 47 EZ 1400,Devansh,80,54,30,2010,Ford
+1,Hit and Run,OD 24 VD 5282,Kartik,100,55,33,2015,Toyota
+2,Not Wearing Seat Belts,AR 08 QV 6889,Rhea,80,32,21,2024,Honda
+3,Red Light Violation Detection,GA 11 FW 5101,Sara,100,72,45,2022,Mahindra
+4,Vehicle Moving in Marked Area,AP 13 YH 0663,Sumer,120,93,60,2011,Mahindra
+5,Reckless Driving,OD 24 VD 5282,Kartik,120,13,33,2015,Toyota
+6,Not Wearing Seat Belts,HR 68 DT 7854,Kiaan,80,29,20,2022,Hyundai
+7,Driving Under the Influence (DUI),DL 06 FL 4217,Kiaan,100,13,20,2015,Ford
+8,Vehicle Moving in Marked Area,CH 02 ME 6020,Jayant,100,29,35,2022,Skoda
+9,Red Light Violation Detection,HR 91 CN 2620,Elakshi,50,29,18,2024,Nissan
+10,Over Speed,ML 04 ZM 4492,Damini,100,143,40,2016,Honda
+11,Hit and Run,TS 31 EC 6935,Neysa,50,19,25,2018,Toyota
+12,Not Wearing Seat Belts,UP 19 JK 8545,Purab,50,19,26,2022,Nissan
+13,Vehicle Moving in Marked Area,MZ 04 DB 5956,Neelofar,120,102,24,2020,Maruti
+14,Reckless Driving,AP 21 BV 4528,Kaira,100,84,19,2024,Ford
+15,Reckless Driving,HR 52 BK 8333,Tushar,80,67,28,2019,Tata
+16,Vehicle Moving in Marked Area,WB 09 MD 4091,Nakul,50,28,40,2013,Renault
+17,Triple Ride,GJ 08 DN 5171,Nitya,80,10,38,2021,Mahindra
+18,Over Speed,HP 85 GB 0726,Indranil,100,142,23,2018,Maruti
+19,Not Wearing Seat Belts,GJ 14 YX 4055,Manjari,50,23,44,2020,Honda
+20,Hit and Run,GA 06 BJ 6514,Yashvi,100,76,20,2011,Tata
+21,No Helmet,ML 05 VG 6272,Vanya,80,13,23,2016,Hyundai
+22,Triple Ride,WB 56 BE 7995,Manikya,100,78,50,2020,Honda
+23,Triple Ride,MZ 01 FS 2415,Inaaya,100,64,25,2024,Maruti
+24,Wrong Way Detection,NL 04 UG 8312,Badal,120,84,26,2023,Renault
+25,No Helmet,PY 03 AF 9073,Tushar,80,51,28,2019,Tata
+26,Triple Ride,CG 29 CP 1851,Anaya,100,84,32,2021,Ford
+27,Vehicle Moving in Marked Area,MH 10 UB 5236,Abram,100,85,33,2022,Honda
+28,Triple Ride,AN 01 WF 5688,Taimur,80,49,38,2015,Toyota
+29,Reckless Driving,GA 09 KY 2096,Faiyaz,50,24,25,2020,Ford
+30,Vehicle Moving in Marked Area,RJ 07 QV 1294,Mehul,120,68,33,2013,Toyota
+31,Not Wearing Seat Belts,JH 23 QR 0736,Nakul,50,16,40,2013,Nissan
+32,Wrong Licence Plate,AN 01 BO 3139,Mahika,100,39,50,2023,Honda
+33,Wrong Way Detection,GA 09 KY 2096,Faiyaz,80,54,25,2020,Ford
+34,No Helmet,CH 03 HY 6609,Taran,100,66,24,2014,Tata
+35,Vehicle Moving in Marked Area,MN 01 SD 2928,Sahil,120,81,28,2024,Skoda
+36,Triple Ride,GA 06 BJ 6514,Yashvi,100,56,20,2011,Tata
+37,No Helmet,OD 24 VD 5282,Kartik,100,91,33,2015,Toyota
+38,Driving Under the Influence (DUI),HR 68 DT 7854,Kiaan,120,103,20,2022,Hyundai
+39,Hit and Run,TN 40 GN 7411,Aaryahi,80,33,22,2016,Maruti
+40,Reckless Driving,MN 07 CP 7176,Diya,100,15,29,2020,Toyota
+41,Over Speed,MN 06 NA 2043,Nitya,120,142,38,2022,Nissan
+42,Over Speed,RJ 07 QV 1294,Mehul,100,122,33,2013,Toyota
+43,Not Wearing Seat Belts,GA 01 WN 9464,Kashvi,80,11,36,2010,Skoda
+44,Vehicle Moving in Marked Area,AS 23 WV 7571,Himmat,50,32,31,2017,Tata
+45,Wrong Licence Plate,CH 04 TP 8178,Anvi,100,69,18,2021,Mahindra
+46,Wrong Way Detection,GA 09 KY 2096,Faiyaz,50,26,25,2020,Ford
+47,No Helmet,TS 01 CP 1323,Kartik,80,28,33,2010,Maruti
+48,Reckless Driving,GJ 08 DN 5171,Nitya,100,37,38,2021,Mahindra
+49,Vehicle Crossing Zebra Line,TS 28 JZ 6443,Farhan,100,56,44,2014,Mahindra
+50,Hit and Run,SK 08 KD 1441,Rasha,120,20,23,2016,Nissan
+51,Red Light Violation Detection,NL 01 CW 0018,Rhea,80,54,21,2016,Skoda
+52,Reckless Driving,ML 05 RX 3918,Dishani,80,15,40,2012,Hyundai
+53,Triple Ride,KL 09 ZH 5026,Madhup,50,31,36,2024,Ford
+54,Wrong Way Detection,LA 01 RQ 7330,Samarth,100,79,21,2021,Nissan
+55,Vehicle Moving in Marked Area,GJ 05 NS 6780,Pihu,50,12,31,2022,Nissan
+56,Vehicle Crossing Zebra Line,CH 02 ME 6020,Jayant,80,22,35,2022,Skoda
+57,Wrong Way Detection,TS 31 EC 6935,Neysa,100,89,25,2018,Toyota
+58,Hit and Run,OD 24 VD 5282,Kartik,120,103,33,2015,Toyota
+59,Over Speed,GJ 20 AU 2729,Yakshit,120,131,38,2016,Maruti
+60,Reckless Driving,PB 24 RV 6713,Inaaya,80,75,25,2024,Tata
+61,Driving Under the Influence (DUI),AN 01 XW 3434,Yuvaan,80,56,26,2012,Mahindra
+62,Vehicle Moving in Marked Area,TS 31 EC 6935,Neysa,80,60,25,2018,Toyota
+63,Wrong Way Detection,MH 22 UW 2887,Shray,100,91,28,2017,Ford
+64,Vehicle Moving in Marked Area,GJ 05 NS 6780,Pihu,120,62,31,2022,Nissan
+65,Hit and Run,HP 61 NJ 1174,Ivana,120,45,51,2011,Tata
+66,Vehicle Moving in Marked Area,KL 73 CC 2434,Neysa,100,73,25,2010,Toyota
+67,No Helmet,HR 52 BK 8333,Tushar,120,119,28,2019,Tata
+68,Wrong Licence Plate,AN 01 XW 3434,Yuvaan,80,11,26,2012,Mahindra
+69,Vehicle Moving in Marked Area,BR 24 DG 3002,Misha,80,32,20,2024,Maruti
+70,Vehicle Moving in Marked Area,MZ 01 FS 2415,Inaaya,50,22,25,2024,Maruti
+71,Reckless Driving,HP 62 TO 0449,Aayush,120,19,22,2012,Honda
+72,Not Wearing Seat Belts,DL 06 MS 9819,Vihaan,80,61,33,2017,Nissan
+73,Vehicle Moving in Marked Area,UP 19 JK 8545,Purab,80,70,26,2022,Nissan
+74,Hit and Run,SK 04 RO 0777,Ehsaan,100,12,33,2015,Maruti
+75,Vehicle Moving in Marked Area,MH 38 EI 1135,Reyansh,100,99,26,2011,Tata
+76,Wrong Licence Plate,TR 07 HT 1393,Ryan,120,56,30,2016,Skoda
+77,Vehicle Crossing Zebra Line,AN 01 XW 3434,Yuvaan,120,88,26,2012,Mahindra
+78,Wrong Licence Plate,JH 10 ZY 3054,Trisha,80,24,24,2024,Maruti
+79,Red Light Violation Detection,TN 11 MJ 4284,Urvi,120,15,36,2015,Renault
+80,Wrong Licence Plate,MH 40 YG 6091,Veer,100,82,32,2014,Tata
+81,Reckless Driving,MN 06 JL 9315,Bhavin,80,46,24,2012,Ford
+82,Wrong Licence Plate,HP 85 GB 0726,Indranil,50,17,23,2018,Maruti
+83,Vehicle Moving in Marked Area,WB 09 MD 4091,Nakul,120,22,40,2013,Renault
+84,Wrong Licence Plate,MN 06 ZW 4049,Inaaya,120,119,25,2024,Maruti
+85,Driving Under the Influence (DUI),AR 22 OF 9491,Aarna,100,43,22,2014,Renault
+86,Wrong Way Detection,GA 03 AL 8770,Anika,120,27,22,2014,Renault
+87,Triple Ride,GJ 29 GK 7066,Priyansh,80,54,23,2019,Ford
+88,Vehicle Crossing Zebra Line,BR 24 DG 3002,Misha,100,46,20,2024,Maruti
+89,Vehicle Crossing Zebra Line,ML 03 EG 5004,Parinaaz,100,92,31,2023,Hyundai
+90,Vehicle Moving in Marked Area,HR 87 IV 5140,Jiya,80,77,26,2022,Hyundai
+91,Wrong Licence Plate,PB 28 PI 7913,Priyansh,50,47,23,2013,Ford
+92,No Helmet,HR 87 IV 5140,Jiya,100,56,26,2022,Hyundai
+93,Hit and Run,CG 27 ND 8699,Jhanvi,120,85,22,2022,Maruti
+94,Hit and Run,HR 68 DT 7854,Kiaan,80,73,20,2022,Hyundai
+95,Wrong Licence Plate,HP 84 XC 2134,Kiaan,50,23,20,2010,Nissan
+96,Driving Under the Influence (DUI),MN 04 NU 8777,Chirag,120,105,37,2012,Toyota
+97,Hit and Run,AR 19 YV 1157,Taran,120,70,24,2014,Tata
+98,No Helmet,HR 46 HN 3083,Darshit,80,17,33,2016,Skoda
+99,Vehicle Crossing Zebra Line,AP 13 YH 0663,Sumer,50,24,60,2011,Mahindra
+100,Hit and Run,AN 01 QQ 1524,Madhav,80,10,36,2012,Maruti
+101,Vehicle Crossing Zebra Line,GA 06 BJ 6514,Yashvi,120,18,20,2011,Tata
+102,Vehicle Moving in Marked Area,UP 19 JK 8545,Purab,80,44,26,2022,Nissan
+103,Vehicle Moving in Marked Area,GJ 14 YX 4055,Manjari,80,53,44,2020,Honda
+104,Wrong Licence Plate,JH 03 QG 6669,Kashvi,80,15,36,2011,Ford
+105,Vehicle Crossing Zebra Line,WB 87 XJ 2625,Adah,50,40,24,2010,Skoda
+106,Wrong Licence Plate,ML 02 XV 8950,Ela,100,80,44,2016,Tata
+107,Over Speed,ML 07 JA 4392,Ranbir,50,55,26,2024,Nissan
+108,Driving Under the Influence (DUI),GA 11 FW 5101,Sara,120,99,45,2022,Mahindra
+109,No Helmet,MN 07 NR 1446,Baiju,120,116,39,2017,Maruti
+110,Driving Under the Influence (DUI),LA 02 BY 7918,Ivana,100,57,51,2010,Ford
+111,Vehicle Moving in Marked Area,SK 08 YN 7753,Vardaniya,80,48,37,2020,Nissan
+112,Wrong Way Detection,TR 07 HT 1393,Ryan,80,39,30,2016,Skoda
+113,Over Speed,BR 34 YT 8544,Lavanya,100,149,28,2012,Nissan
+114,Over Speed,AN 01 WF 5688,Taimur,100,153,38,2015,Toyota
+115,Vehicle Moving in Marked Area,SK 08 KD 1441,Rasha,120,19,23,2016,Nissan
+116,Wrong Way Detection,AS 24 KC 6677,Madhav,100,67,36,2014,Toyota
+117,Hit and Run,GJ 39 SI 7686,Ayesha,100,73,35,2014,Ford
+118,No Helmet,NL 04 UG 8312,Badal,80,29,26,2023,Renault
+119,Triple Ride,DL 12 MQ 6652,Krish,50,36,26,2012,Honda
+120,Wrong Licence Plate,AP 21 RR 3786,Kiaan,120,66,20,2014,Tata
+121,Triple Ride,UP 59 WX 0804,Lagan,100,50,22,2018,Ford
+122,Hit and Run,CG 29 CP 1851,Anaya,120,70,32,2021,Ford
+123,Over Speed,ML 02 XV 8950,Ela,80,115,44,2016,Tata
+124,Driving Under the Influence (DUI),KL 73 CC 2434,Neysa,120,96,25,2010,Toyota
+125,Vehicle Crossing Zebra Line,NL 04 UG 8312,Badal,120,101,26,2023,Renault
+126,Driving Under the Influence (DUI),TS 31 EC 6935,Neysa,80,64,25,2018,Toyota
+127,Red Light Violation Detection,CG 12 DA 9974,Baiju,50,15,39,2017,Tata
+128,Driving Under the Influence (DUI),GA 02 JH 9153,Ojas,50,10,32,2024,Honda
+129,Wrong Licence Plate,RJ 43 UF 0168,Yasmin,50,32,29,2023,Tata
+130,Hit and Run,AN 01 FF 9015,Taimur,80,71,38,2015,Toyota
+131,Vehicle Moving in Marked Area,UP 67 CT 6087,Aarna,80,23,22,2013,Skoda
+132,No Helmet,AR 22 OF 9491,Aarna,100,82,22,2014,Renault
+133,Wrong Way Detection,MH 04 OV 8836,Misha,50,48,20,2015,Honda
+134,Red Light Violation Detection,AP 21 RR 3786,Kiaan,50,39,20,2014,Tata
+135,Vehicle Crossing Zebra Line,GA 06 BJ 6514,Yashvi,120,94,20,2011,Tata
+136,Wrong Licence Plate,TN 80 OH 4397,Saira,50,14,25,2022,Honda
+137,No Helmet,GA 01 WN 9464,Kashvi,120,118,36,2010,Skoda
+138,Not Wearing Seat Belts,AP 21 BV 4528,Kaira,50,37,19,2024,Ford
+139,Wrong Way Detection,MN 06 ZW 4049,Inaaya,50,21,25,2024,Maruti
+140,Reckless Driving,GA 01 WN 9464,Kashvi,100,32,36,2010,Skoda
+141,Driving Under the Influence (DUI),CH 02 ME 6020,Jayant,50,32,35,2022,Skoda
+142,Driving Under the Influence (DUI),ML 05 VG 6272,Vanya,100,98,23,2016,Hyundai
+143,Not Wearing Seat Belts,CG 02 BD 0279,Priyansh,80,73,23,2015,Maruti
+144,Red Light Violation Detection,TR 06 YV 6483,Darshit,50,18,33,2022,Skoda
+145,Wrong Way Detection,MN 02 AM 0867,Lakshit,50,20,21,2021,Toyota
+146,Wrong Licence Plate,WB 52 GK 8960,Aaryahi,120,71,22,2016,Ford
+147,Over Speed,AN 01 CZ 6297,Rania,120,125,37,2012,Toyota
+148,Hit and Run,ML 05 RX 3918,Dishani,80,38,40,2012,Hyundai
+149,Not Wearing Seat Belts,GA 09 KY 2096,Faiyaz,100,23,25,2020,Ford
+150,Hit and Run,KL 40 YT 0574,Jayesh,120,32,40,2014,Skoda
+151,Hit and Run,HP 62 TO 0449,Aayush,50,25,22,2012,Honda
+152,Wrong Way Detection,KA 50 JK 0580,Aarna,50,11,22,2013,Nissan
+153,Not Wearing Seat Belts,GJ 02 AJ 8999,Eshani,50,20,28,2014,Renault
+154,Not Wearing Seat Belts,DL 06 MS 9819,Vihaan,100,64,33,2017,Nissan
+155,Over Speed,DD 01 JK 1805,Kismat,50,109,40,2010,Renault
+156,Wrong Way Detection,CG 27 ND 8699,Jhanvi,50,32,22,2022,Maruti
+157,Vehicle Moving in Marked Area,MN 07 NR 1446,Baiju,100,51,39,2017,Maruti
+158,Vehicle Moving in Marked Area,BR 34 YT 8544,Lavanya,120,62,28,2012,Nissan
+159,Wrong Way Detection,MN 04 NU 8777,Chirag,80,56,37,2012,Toyota
+160,Triple Ride,TN 64 JN 3578,Uthkarsh,80,54,38,2010,Skoda
+161,Wrong Way Detection,KL 40 YT 0574,Jayesh,80,67,40,2014,Skoda
+162,Reckless Driving,TS 13 VM 6639,Vanya,100,41,23,2016,Hyundai
+163,Driving Under the Influence (DUI),MZ 03 CK 6204,Ryan,80,62,30,2015,Mahindra
+164,Vehicle Crossing Zebra Line,AP 13 YH 0663,Sumer,80,25,60,2011,Mahindra
+165,Triple Ride,AP 16 XY 4497,Ehsaan,80,79,33,2015,Maruti
+166,Wrong Licence Plate,WB 04 GZ 0060,Mahika,50,40,50,2017,Renault
+167,Driving Under the Influence (DUI),KA 17 VM 4686,Madhup,100,61,36,2021,Maruti
+168,Wrong Licence Plate,GA 11 FW 5101,Sara,100,57,45,2022,Mahindra
+169,Red Light Violation Detection,MN 07 NR 1446,Baiju,50,27,39,2017,Tata
+170,Vehicle Crossing Zebra Line,PB 75 BJ 9197,Vritika,80,71,27,2018,Tata
+171,Vehicle Crossing Zebra Line,SK 05 AE 2498,Samiha,50,17,22,2023,Renault
+172,Vehicle Crossing Zebra Line,BR 34 YT 8544,Lavanya,120,57,28,2012,Nissan
+173,Red Light Violation Detection,ML 05 UW 0603,Miraan,50,12,28,2018,Ford
+174,Red Light Violation Detection,DL 13 SX 3154,Stuvan,80,31,28,2021,Toyota
+175,No Helmet,AR 10 SU 9362,Rhea,80,44,21,2023,Maruti
+176,Reckless Driving,JH 10 ZY 3054,Trisha,100,98,24,2024,Maruti
+177,Triple Ride,TS 13 VM 6639,Vanya,120,21,23,2016,Hyundai
+178,Reckless Driving,SK 08 YN 7753,Vardaniya,120,24,37,2020,Nissan
+179,Driving Under the Influence (DUI),GJ 08 DN 5171,Nitya,50,29,38,2021,Mahindra
+180,Vehicle Crossing Zebra Line,AP 21 RR 3786,Kiaan,50,11,20,2014,Tata
+181,Driving Under the Influence (DUI),GA 03 DR 7894,Faiyaz,50,46,25,2015,Nissan
+182,Red Light Violation Detection,AN 01 BO 3139,Mahika,80,76,50,2023,Honda
+183,Not Wearing Seat Belts,HP 61 NJ 1174,Ivana,80,27,51,2011,Tata
+184,Wrong Way Detection,DL 09 AP 9514,Divyansh,50,32,41,2011,Nissan
+185,Wrong Way Detection,AR 08 QV 6889,Rhea,80,16,21,2024,Honda
+186,Red Light Violation Detection,UK 02 RX 6331,Aarna,120,10,22,2011,Tata
+187,Vehicle Moving in Marked Area,LA 01 JL 6323,Hansh,80,62,39,2012,Ford
+188,Red Light Violation Detection,MH 05 AS 6098,Jayesh,100,61,40,2010,Tata
+189,Vehicle Crossing Zebra Line,UK 03 YO 9396,Damini,50,25,40,2011,Tata
+190,Triple Ride,AR 19 YV 1157,Taran,80,20,24,2014,Tata
+191,Driving Under the Influence (DUI),KA 50 JK 0580,Aarna,80,70,22,2013,Nissan
+192,Over Speed,PB 65 US 1552,Dhruv,80,119,20,2012,Toyota
+193,Driving Under the Influence (DUI),SK 05 RV 6688,Vardaniya,120,98,37,2015,Tata
+194,Hit and Run,WB 33 RY 1723,Bhavin,100,88,24,2012,Nissan
+195,Driving Under the Influence (DUI),WB 04 GZ 0060,Mahika,120,67,50,2017,Renault
+196,Driving Under the Influence (DUI),UP 45 RK 1279,Manikya,120,20,50,2010,Mahindra
+197,Wrong Way Detection,CH 03 HY 6609,Taran,100,36,24,2014,Tata
+198,Vehicle Moving in Marked Area,MH 40 YG 6091,Veer,120,14,32,2014,Tata
+199,Not Wearing Seat Belts,MH 51 BE 3008,Dishani,120,100,40,2012,Hyundai
+200,Not Wearing Seat Belts,HR 68 DT 7854,Kiaan,80,42,20,2022,Hyundai
+201,Not Wearing Seat Belts,WB 33 RY 1723,Bhavin,50,19,24,2012,Nissan
+202,Driving Under the Influence (DUI),PB 14 CF 8084,Ryan,80,12,30,2023,Honda
+203,Wrong Licence Plate,PB 75 BJ 9197,Vritika,120,23,27,2018,Tata
+204,Wrong Way Detection,SK 04 RO 0777,Ehsaan,50,32,33,2015,Maruti
+205,Reckless Driving,MH 05 EJ 9599,Shlok,120,65,28,2017,Hyundai
+206,Vehicle Crossing Zebra Line,CG 07 YU 7737,Keya,100,61,55,2010,Maruti
+207,Hit and Run,ML 07 JA 4392,Ranbir,80,74,26,2024,Nissan
+208,Driving Under the Influence (DUI),TS 28 JZ 6443,Farhan,100,11,44,2014,Mahindra
+209,Triple Ride,TR 04 TR 4804,Hansh,120,40,39,2019,Ford
+210,Hit and Run,AR 08 QV 6889,Rhea,120,116,21,2024,Honda
+211,No Helmet,DD 01 JK 1805,Kismat,120,107,40,2010,Renault
+212,Wrong Way Detection,AS 23 WV 7571,Himmat,50,37,31,2017,Tata
+213,No Helmet,KA 59 XD 7535,Mamooty,120,80,30,2017,Nissan
+214,Wrong Way Detection,TR 04 VV 3439,Indrans,120,90,28,2012,Toyota
+215,Triple Ride,JH 03 QG 6669,Kashvi,100,32,36,2011,Ford
+216,Red Light Violation Detection,OD 04 PS 2465,Sumer,100,31,60,2011,Nissan
+217,Driving Under the Influence (DUI),LA 02 XP 6254,Madhav,100,99,36,2023,Mahindra
+218,Red Light Violation Detection,KA 50 JK 0580,Aarna,50,26,22,2013,Nissan
+219,Red Light Violation Detection,ML 02 XV 8950,Ela,80,25,44,2016,Tata
+220,Wrong Licence Plate,NL 10 CP 7112,Rhea,100,12,21,2013,Renault
+221,Wrong Way Detection,AP 13 YH 0663,Sumer,80,46,60,2011,Mahindra
+222,Not Wearing Seat Belts,NL 01 OQ 6919,Vardaniya,100,80,37,2010,Maruti
+223,Vehicle Moving in Marked Area,MN 03 YM 1482,Purab,100,74,26,2024,Nissan
+224,Vehicle Crossing Zebra Line,PY 01 PE 4364,Sana,120,99,27,2018,Renault
+225,Wrong Way Detection,MN 01 SD 2928,Sahil,120,71,28,2024,Skoda
+226,Not Wearing Seat Belts,KL 81 HY 7791,Vaibhav,120,44,27,2014,Nissan
+227,Hit and Run,ML 02 XV 8950,Ela,100,25,44,2016,Tata
+228,Driving Under the Influence (DUI),WB 52 GK 8960,Aaryahi,120,21,22,2016,Ford
+229,Wrong Way Detection,AR 19 YV 1157,Taran,50,49,24,2014,Tata
+230,No Helmet,SK 05 RV 6688,Vardaniya,120,85,37,2015,Tata
+231,Triple Ride,UK 11 PC 5005,Indranil,100,66,23,2014,Nissan
+232,Triple Ride,CG 01 VE 7524,Neelofar,80,49,24,2011,Tata
+233,Driving Under the Influence (DUI),RJ 49 OU 3074,Ishaan,80,18,37,2013,Nissan
+234,Over Speed,OD 24 VD 5282,Kartik,100,102,33,2015,Toyota
+235,No Helmet,JH 10 ZY 3054,Trisha,80,27,32,2012,Mahindra
+236,Vehicle Crossing Zebra Line,MZ 01 ZH 8180,Adah,100,55,24,2015,Nissan
+237,Triple Ride,ML 05 VG 6272,Vanya,100,11,23,2016,Hyundai
+238,Red Light Violation Detection,LA 01 RQ 7330,Samarth,120,67,21,2021,Nissan
+239,Driving Under the Influence (DUI),ML 02 DO 7748,Amira,120,20,24,2014,Toyota
+240,Wrong Licence Plate,CH 03 KU 9789,Krish,80,59,26,2011,Nissan
+241,Driving Under the Influence (DUI),CH 02 ME 6020,Jayant,80,61,35,2022,Skoda
+242,Hit and Run,CG 02 BD 0279,Priyansh,80,25,23,2015,Maruti
+243,Driving Under the Influence (DUI),AN 01 CZ 6297,Rania,100,28,37,2012,Toyota
+244,Not Wearing Seat Belts,OD 24 VD 5282,Kartik,80,50,33,2015,Toyota
+245,Not Wearing Seat Belts,TR 07 HT 1393,Ryan,120,96,30,2016,Skoda
+246,Hit and Run,UP 45 RK 1279,Manikya,100,95,50,2010,Mahindra
+247,Driving Under the Influence (DUI),TR 04 VV 3439,Indrans,80,40,28,2012,Toyota
+248,Vehicle Crossing Zebra Line,UK 02 RX 6331,Aarna,120,104,22,2011,Tata
+249,Not Wearing Seat Belts,AP 24 RR 0422,Yuvraj,80,35,39,2014,Maruti
+250,Wrong Licence Plate,KL 81 HY 7791,Vaibhav,100,11,27,2014,Nissan
+251,Not Wearing Seat Belts,MH 05 EJ 9599,Shlok,80,53,28,2017,Hyundai
+252,Vehicle Crossing Zebra Line,AN 01 XW 3434,Yuvaan,100,100,26,2012,Mahindra
+253,Wrong Licence Plate,MP 52 TY 6026,Neelofar,50,25,24,2019,Skoda
+254,No Helmet,CG 12 DA 9974,Baiju,120,95,39,2017,Tata
+255,Vehicle Crossing Zebra Line,AP 24 RR 0422,Yuvraj,80,44,39,2014,Maruti
+256,Vehicle Moving in Marked Area,TR 06 YV 6483,Darshit,100,90,33,2022,Skoda
+257,Red Light Violation Detection,GJ 28 OT 0179,Piya,100,65,38,2011,Maruti
+258,Wrong Licence Plate,DL 09 AP 9514,Divyansh,100,41,41,2011,Nissan
+259,Red Light Violation Detection,HP 62 TO 0449,Aayush,80,42,22,2012,Honda
+260,Wrong Way Detection,HP 62 TO 0449,Aayush,50,35,22,2012,Honda
+261,Triple Ride,AP 21 RR 3786,Kiaan,80,17,20,2014,Tata
+262,No Helmet,UK 18 KI 9140,Tejas,50,35,22,2018,Tata
+263,Not Wearing Seat Belts,MH 04 OV 8836,Misha,100,38,20,2015,Honda
+264,Over Speed,HP 85 GB 0726,Indranil,80,123,23,2018,Maruti
+265,Not Wearing Seat Belts,KA 59 XD 7535,Mamooty,100,48,30,2017,Nissan
+266,No Helmet,MZ 01 ZH 8180,Adah,50,27,24,2015,Nissan
+267,Wrong Licence Plate,MP 24 PI 6413,Umang,50,49,18,2018,Tata
+268,Vehicle Moving in Marked Area,HP 61 NJ 1174,Ivana,80,43,51,2011,Tata
+269,Red Light Violation Detection,GJ 20 FC 1117,Kimaya,80,24,24,2019,Maruti
+270,Driving Under the Influence (DUI),MN 07 CP 7176,Diya,50,10,29,2020,Toyota
+271,Vehicle Moving in Marked Area,CG 29 CP 1851,Anaya,80,51,32,2021,Ford
+272,No Helmet,PB 47 EZ 1400,Devansh,120,39,30,2010,Ford
+273,Reckless Driving,SK 05 SQ 4067,Raunak,120,43,19,2014,Maruti
+274,Red Light Violation Detection,MN 07 CP 7176,Diya,80,48,29,2020,Toyota
+275,Driving Under the Influence (DUI),MH 51 BE 3008,Dishani,100,66,40,2012,Hyundai
+276,Wrong Way Detection,MN 04 NU 8777,Chirag,100,16,37,2012,Toyota
+277,Vehicle Crossing Zebra Line,HP 84 XC 2134,Kiaan,80,54,20,2010,Nissan
+278,Wrong Way Detection,OD 24 VD 5282,Kartik,50,23,33,2015,Toyota
+279,Hit and Run,JH 10 ZY 3054,Trisha,80,54,32,2012,Mahindra
+280,Hit and Run,DL 12 MQ 6652,Krish,120,79,26,2012,Honda
+281,Vehicle Crossing Zebra Line,GJ 08 DN 5171,Nitya,120,14,38,2021,Mahindra
+282,Wrong Licence Plate,DL 09 AP 9514,Divyansh,80,70,41,2011,Nissan
+283,Wrong Way Detection,CH 03 HY 6609,Taran,50,17,24,2014,Tata
+284,Hit and Run,SK 08 KD 1441,Rasha,80,59,23,2016,Nissan
+285,Over Speed,GA 03 DR 7894,Faiyaz,100,109,25,2015,Nissan
+286,Reckless Driving,SK 02 GK 3671,Himmat,120,34,31,2024,Hyundai
+287,Red Light Violation Detection,WB 09 MD 4091,Nakul,80,60,40,2013,Renault
+288,Vehicle Crossing Zebra Line,KL 22 RR 0325,Nitya,120,120,38,2014,Tata
+289,No Helmet,CG 29 CP 1851,Anaya,100,36,32,2021,Ford
+290,Vehicle Crossing Zebra Line,AN 01 WF 5688,Taimur,80,67,38,2015,Toyota
+291,Reckless Driving,MZ 04 VC 9710,Romil,120,23,25,2022,Toyota
+292,Driving Under the Influence (DUI),MZ 03 ZN 7693,Sara,120,91,45,2021,Tata
+293,Hit and Run,ML 05 UW 0603,Miraan,120,95,28,2018,Ford
+294,Reckless Driving,WB 09 MD 4091,Nakul,80,22,40,2013,Renault
+295,Triple Ride,OD 02 NM 0515,Advik,80,35,33,2022,Tata
+296,Hit and Run,AS 06 QL 0017,Kashvi,50,33,36,2024,Renault
+297,Wrong Way Detection,PB 75 BJ 9197,Vritika,50,42,27,2018,Tata
+298,Wrong Licence Plate,LA 02 EY 2682,Aradhya,80,21,28,2020,Honda
+299,Wrong Licence Plate,MP 24 PI 6413,Umang,120,65,18,2018,Tata
+300,Not Wearing Seat Belts,GJ 30 JT 8734,Kismat,80,50,40,2024,Nissan
+301,Not Wearing Seat Belts,RJ 07 QV 1294,Mehul,50,27,33,2013,Toyota
+302,Reckless Driving,SK 05 AE 2498,Samiha,120,19,22,2023,Renault
+303,Driving Under the Influence (DUI),AR 12 AT 4406,Mehul,50,19,33,2013,Toyota
+304,Over Speed,WB 52 GK 8960,Aaryahi,120,142,22,2016,Ford
+305,Over Speed,TN 71 CL 4602,Fateh,50,109,25,2012,Nissan
+306,Vehicle Crossing Zebra Line,DL 12 MQ 6652,Krish,80,49,26,2012,Honda
+307,Over Speed,CG 07 YU 7737,Keya,100,138,55,2010,Maruti
+308,Hit and Run,TR 01 BD 6873,Indranil,50,11,23,2010,Mahindra
+309,Reckless Driving,PB 28 PI 7913,Priyansh,120,67,23,2013,Ford
+310,Vehicle Moving in Marked Area,BR 15 WK 2807,Kimaya,50,44,24,2019,Maruti
+311,Not Wearing Seat Belts,ML 03 EG 5004,Parinaaz,120,94,31,2023,Hyundai
+312,Red Light Violation Detection,LA 01 JL 6323,Hansh,50,23,39,2012,Ford
+313,Not Wearing Seat Belts,TR 06 YV 6483,Darshit,50,21,33,2022,Skoda
+314,Vehicle Moving in Marked Area,DL 12 QW 4639,Shamik,80,39,44,2011,Honda
+315,Driving Under the Influence (DUI),HR 44 HM 2910,Jhanvi,50,32,22,2017,Ford
+316,Reckless Driving,NL 04 UG 8312,Badal,80,50,26,2023,Renault
+317,Red Light Violation Detection,LA 02 ZO 1332,Indranil,120,38,23,2017,Skoda
+318,Over Speed,HR 87 IV 5140,Jiya,100,136,26,2022,Hyundai
+319,No Helmet,TS 28 JZ 6443,Farhan,120,18,44,2014,Mahindra
+320,Driving Under the Influence (DUI),DL 03 BX 0760,Nitara,80,60,22,2018,Hyundai
+321,Triple Ride,GA 03 DR 7894,Faiyaz,50,22,25,2015,Nissan
+322,Driving Under the Influence (DUI),GA 12 AR 8089,Charvi,50,17,23,2014,Ford
+323,Vehicle Moving in Marked Area,ML 04 XD 9844,Advika,50,39,33,2024,Tata
+324,Red Light Violation Detection,UK 13 ZD 3216,Indranil,120,92,23,2014,Nissan
+325,Hit and Run,UP 59 WX 0804,Lagan,80,75,22,2018,Ford
+326,Over Speed,HR 52 BK 8333,Tushar,50,106,28,2019,Tata
+327,Not Wearing Seat Belts,NL 01 CW 0018,Rhea,120,19,21,2016,Skoda
+328,Red Light Violation Detection,JH 03 QG 6669,Kashvi,50,19,36,2011,Ford
+329,Over Speed,HR 44 HM 2910,Jhanvi,50,78,22,2017,Ford
+330,Over Speed,HP 80 SL 7730,Shray,80,90,28,2012,Honda
+331,Wrong Licence Plate,AN 01 HM 4404,Hiran,100,69,37,2022,Skoda
+332,Vehicle Moving in Marked Area,JH 23 QR 0736,Nakul,100,55,40,2013,Nissan
+333,Hit and Run,GA 02 JH 9153,Ojas,80,13,32,2024,Honda
+334,Wrong Way Detection,MH 46 QG 1749,Kiara,50,45,24,2014,Ford
+335,Wrong Way Detection,TR 04 VV 3439,Indrans,120,98,28,2012,Toyota
+336,No Helmet,AN 01 BO 3139,Mahika,120,106,50,2023,Honda
+337,No Helmet,MZ 01 ZH 8180,Adah,80,31,24,2015,Nissan
+338,Hit and Run,AN 01 QQ 1524,Madhav,100,13,36,2012,Maruti
+339,No Helmet,MZ 03 CK 6204,Ryan,100,52,30,2015,Mahindra
+340,Wrong Way Detection,ML 02 TY 2446,Mahika,120,71,50,2010,Tata
+341,Vehicle Crossing Zebra Line,MN 04 BJ 4775,Armaan,100,53,18,2024,Renault
+342,Over Speed,CH 03 HY 6609,Taran,50,98,24,2014,Tata
+343,No Helmet,GJ 14 YX 4055,Manjari,120,61,44,2020,Honda
+344,Vehicle Crossing Zebra Line,UK 02 RX 6331,Aarna,120,45,22,2011,Tata
+345,Triple Ride,UK 03 YO 9396,Damini,100,45,40,2011,Tata
+346,Wrong Licence Plate,DL 05 YF 4236,Yasmin,80,15,29,2024,Hyundai
+347,Wrong Way Detection,KL 81 HY 7791,Vaibhav,100,96,27,2014,Nissan
+348,Hit and Run,SK 08 YN 7753,Vardaniya,50,29,37,2020,Nissan
+349,Vehicle Moving in Marked Area,AN 01 VC 4816,Jivika,100,43,27,2011,Hyundai
+350,Vehicle Crossing Zebra Line,UK 11 PC 5005,Indranil,80,61,23,2014,Nissan
+351,No Helmet,CG 27 ND 8699,Jhanvi,120,36,22,2022,Maruti
+352,Wrong Way Detection,TS 31 EC 6935,Neysa,50,10,25,2018,Toyota
+353,Wrong Way Detection,AN 01 XW 3434,Yuvaan,50,38,26,2012,Mahindra
+354,Reckless Driving,MZ 04 MD 5314,Shayak,100,35,36,2011,Ford
+355,Wrong Licence Plate,AR 10 SU 9362,Rhea,80,21,21,2023,Maruti
+356,No Helmet,WB 87 XJ 2625,Adah,50,29,24,2010,Skoda
+357,Driving Under the Influence (DUI),CH 02 ME 6020,Jayant,100,53,35,2022,Skoda
+358,Wrong Way Detection,UK 18 KI 9140,Tejas,50,22,22,2018,Tata
+359,No Helmet,HR 52 BK 8333,Tushar,120,84,28,2019,Tata
+360,No Helmet,HP 89 JH 2577,Alisha,120,37,18,2024,Toyota
+361,Over Speed,JH 07 OU 7283,Shray,120,123,28,2023,Tata
+362,Over Speed,MN 03 YM 1482,Purab,80,126,26,2024,Nissan
+363,Wrong Way Detection,AR 10 SU 9362,Rhea,80,28,21,2023,Maruti
+364,Driving Under the Influence (DUI),OD 04 PS 2465,Sumer,80,46,60,2011,Nissan
+365,Red Light Violation Detection,HR 44 HM 2910,Jhanvi,80,73,22,2017,Ford
+366,Driving Under the Influence (DUI),GJ 20 AU 2729,Yakshit,80,39,38,2016,Maruti
+367,Wrong Licence Plate,GJ 02 AJ 8999,Eshani,120,29,28,2014,Renault
+368,Not Wearing Seat Belts,GA 12 AR 8089,Charvi,50,34,23,2014,Ford
+369,Red Light Violation Detection,TR 06 YV 6483,Darshit,50,31,33,2022,Skoda
+370,Driving Under the Influence (DUI),KA 14 VM 3580,Hazel,120,59,21,2014,Toyota
+371,Reckless Driving,TR 04 VV 3439,Indrans,80,61,28,2012,Toyota
+372,Triple Ride,ML 03 EG 5004,Parinaaz,80,57,31,2023,Hyundai
+373,Triple Ride,KL 22 RR 0325,Nitya,50,32,38,2014,Tata
+374,Wrong Licence Plate,ML 07 JA 4392,Ranbir,50,26,26,2024,Nissan
+375,Red Light Violation Detection,MH 40 YG 6091,Veer,50,16,32,2014,Tata
+376,Vehicle Crossing Zebra Line,MN 07 NR 1446,Baiju,80,10,39,2017,Maruti
+377,Over Speed,GJ 20 AU 2729,Yakshit,120,144,38,2016,Maruti
+378,Triple Ride,DL 12 QW 4639,Shamik,80,76,44,2011,Honda
+379,Driving Under the Influence (DUI),HP 64 EW 2147,Samarth,120,29,21,2024,Nissan
+380,Vehicle Crossing Zebra Line,HP 61 NJ 1174,Ivana,50,26,51,2011,Tata
+381,Hit and Run,MN 06 JL 9315,Bhavin,120,72,24,2012,Ford
+382,Reckless Driving,TN 71 CL 4602,Fateh,100,60,25,2012,Nissan
+383,Driving Under the Influence (DUI),PY 01 EU 6653,Faiyaz,80,29,25,2010,Maruti
+384,Reckless Driving,PY 04 FK 3726,Dhanush,50,23,20,2014,Skoda
+385,Wrong Licence Plate,GA 02 JH 9153,Ojas,50,42,32,2024,Honda
+386,Reckless Driving,MZ 04 DB 5956,Neelofar,80,60,24,2020,Maruti
+387,Hit and Run,MZ 03 ZN 7693,Sara,120,28,45,2021,Tata
+388,No Helmet,TR 01 BD 6873,Indranil,80,42,23,2010,Mahindra
+389,Wrong Way Detection,WB 33 RY 1723,Bhavin,80,64,24,2012,Nissan
+390,Red Light Violation Detection,KL 30 XJ 2088,Ojas,120,67,32,2023,Ford
+391,Vehicle Moving in Marked Area,MP 50 UF 3765,Elakshi,50,35,18,2012,Tata
+392,Reckless Driving,JH 07 OU 7283,Shray,100,33,28,2023,Tata
+393,Driving Under the Influence (DUI),LA 02 XP 6254,Madhav,50,34,36,2023,Mahindra
+394,Red Light Violation Detection,LA 02 ZO 1332,Indranil,100,42,23,2017,Skoda
+395,Not Wearing Seat Belts,DL 12 QW 4639,Shamik,100,27,33,2010,Mahindra
+396,Reckless Driving,PB 75 BJ 9197,Vritika,100,26,27,2018,Tata
+397,Wrong Way Detection,LA 02 XP 6254,Madhav,80,47,36,2023,Mahindra
+398,Vehicle Crossing Zebra Line,AP 13 YH 0663,Sumer,100,75,60,2011,Mahindra
+399,No Helmet,ML 04 ZM 4492,Damini,80,73,40,2016,Honda
+400,Vehicle Moving in Marked Area,SK 04 LB 5363,Anahi,80,51,31,2023,Renault
+401,Driving Under the Influence (DUI),GJ 08 DN 5171,Nitya,80,38,38,2021,Mahindra
+402,Hit and Run,DD 01 JK 1805,Kismat,100,88,40,2010,Renault
+403,Vehicle Moving in Marked Area,ML 04 ZM 4492,Damini,50,17,40,2016,Honda
+404,Triple Ride,HP 85 GB 0726,Indranil,100,27,23,2018,Maruti
+405,Wrong Way Detection,GJ 39 SI 7686,Ayesha,50,45,35,2014,Ford
+406,Hit and Run,GJ 02 AJ 8999,Eshani,80,52,28,2014,Renault
+407,Wrong Licence Plate,WB 09 MD 4091,Nakul,100,83,40,2013,Renault
+408,Reckless Driving,UK 04 AT 1372,Vivaan,80,43,26,2021,Skoda
+409,Reckless Driving,GA 09 KY 2096,Faiyaz,120,48,25,2020,Ford
+410,No Helmet,PY 04 BL 7845,Jhanvi,80,20,22,2016,Skoda
+411,Vehicle Crossing Zebra Line,PB 24 RV 6713,Inaaya,80,11,25,2024,Tata
+412,Wrong Licence Plate,SK 05 AE 2498,Samiha,80,18,22,2023,Renault
+413,Wrong Way Detection,MZ 04 DB 5956,Neelofar,80,33,24,2020,Maruti
+414,Red Light Violation Detection,AN 01 CZ 6297,Rania,120,97,37,2012,Toyota
+415,Wrong Licence Plate,GJ 28 OT 0179,Piya,100,40,38,2011,Maruti
+416,Wrong Way Detection,GJ 07 GQ 5406,Zaina,100,53,24,2014,Hyundai
+417,No Helmet,MP 52 TY 6026,Neelofar,120,45,24,2019,Skoda
+418,No Helmet,PB 26 WC 9915,Aaina,120,58,21,2010,Maruti
+419,Red Light Violation Detection,TS 13 VM 6639,Vanya,100,96,23,2016,Hyundai
+420,Not Wearing Seat Belts,KA 32 VY 1344,Chirag,80,18,37,2018,Nissan
+421,Hit and Run,AP 21 RR 3786,Kiaan,100,16,20,2014,Tata
+422,Red Light Violation Detection,MH 38 EI 1135,Reyansh,50,35,26,2011,Tata
+423,Over Speed,AR 01 VM 5615,Pihu,50,121,31,2019,Honda
+424,Over Speed,MP 52 TY 6026,Neelofar,50,109,24,2019,Skoda
+425,Vehicle Crossing Zebra Line,LA 01 JL 6323,Hansh,100,80,39,2012,Ford
+426,Driving Under the Influence (DUI),MN 07 NR 1446,Baiju,100,19,39,2017,Maruti
+427,Wrong Licence Plate,PB 75 BJ 9197,Vritika,80,27,27,2018,Tata
+428,Driving Under the Influence (DUI),TR 06 YV 6483,Darshit,100,75,33,2022,Skoda
+429,Over Speed,RJ 54 RB 0199,Divij,120,142,36,2018,Toyota
+430,Driving Under the Influence (DUI),MN 06 ZW 4049,Inaaya,80,13,25,2024,Maruti
+431,Wrong Way Detection,HR 87 IV 5140,Jiya,80,58,26,2022,Hyundai
+432,Not Wearing Seat Belts,LA 02 BY 7918,Ivana,120,21,51,2010,Ford
+433,Not Wearing Seat Belts,AS 24 KC 6677,Madhav,50,31,36,2014,Toyota
+434,Vehicle Crossing Zebra Line,HR 68 DT 7854,Kiaan,100,40,20,2022,Hyundai
+435,Not Wearing Seat Belts,KA 50 JK 0580,Aarna,50,34,22,2013,Nissan
+436,Wrong Licence Plate,MH 10 UB 5236,Abram,120,54,33,2022,Honda
+437,Wrong Way Detection,MZ 03 ZN 7693,Sara,80,64,45,2021,Tata
+438,Over Speed,AR 10 SU 9362,Rhea,120,133,21,2023,Maruti
+439,No Helmet,MH 51 BE 3008,Dishani,50,17,40,2012,Hyundai
+440,No Helmet,PY 04 BL 7845,Jhanvi,80,17,22,2016,Skoda
+441,Wrong Way Detection,SK 05 RV 6688,Vardaniya,50,10,37,2015,Tata
+442,Over Speed,KA 59 XD 7535,Mamooty,50,61,30,2017,Nissan
+443,Vehicle Crossing Zebra Line,AN 01 FF 9015,Taimur,120,102,38,2015,Toyota
+444,Not Wearing Seat Belts,PB 14 CF 8084,Ryan,50,15,30,2023,Honda
+445,Wrong Licence Plate,HR 49 ZI 5274,Khushi,50,48,33,2017,Maruti
+446,Driving Under the Influence (DUI),HR 08 VQ 6196,Dhanush,80,19,20,2014,Maruti
+447,Vehicle Crossing Zebra Line,SK 08 KD 1441,Rasha,80,75,23,2016,Nissan
+448,Reckless Driving,GJ 39 SI 7686,Ayesha,100,34,35,2014,Ford
+449,No Helmet,MZ 04 DB 5956,Neelofar,50,32,24,2020,Maruti
+450,Not Wearing Seat Belts,UK 13 ZD 3216,Indranil,100,41,23,2014,Nissan
+451,Reckless Driving,PY 01 FQ 6474,Mamooty,50,40,30,2017,Ford
+452,Red Light Violation Detection,HP 85 GB 0726,Indranil,50,15,23,2018,Maruti
+453,No Helmet,LA 02 VZ 7281,Shanaya,100,99,33,2021,Tata
+454,Hit and Run,AP 13 YH 0663,Sumer,50,36,60,2011,Mahindra
+455,Over Speed,LA 01 JL 6323,Hansh,120,140,39,2012,Ford
+456,Hit and Run,MZ 03 JG 9899,Krish,50,20,26,2024,Toyota
+457,Driving Under the Influence (DUI),ML 05 UW 0603,Miraan,50,34,28,2018,Ford
+458,Reckless Driving,HR 87 IV 5140,Jiya,100,77,26,2022,Hyundai
+459,Vehicle Crossing Zebra Line,KA 59 XD 7535,Mamooty,80,27,30,2017,Nissan
+460,Reckless Driving,GA 09 KY 2096,Faiyaz,80,27,25,2020,Ford
+461,Hit and Run,RJ 43 UF 0168,Yasmin,120,28,29,2023,Tata
+462,Hit and Run,MN 04 NU 8777,Chirag,100,31,37,2012,Toyota
+463,Not Wearing Seat Belts,SK 08 YN 7753,Vardaniya,100,38,37,2020,Nissan
+464,Wrong Licence Plate,AN 01 PT 7934,Ela,80,40,44,2016,Nissan
+465,Wrong Licence Plate,AN 01 PT 7934,Ela,120,35,44,2016,Nissan
+466,Reckless Driving,MN 07 NR 1446,Baiju,120,37,39,2017,Maruti
+467,Triple Ride,HP 80 SL 7730,Shray,100,53,28,2012,Honda
+468,Vehicle Crossing Zebra Line,ML 09 PQ 6114,Mamooty,100,16,30,2017,Renault
+469,Red Light Violation Detection,WB 52 GK 8960,Aaryahi,50,47,22,2016,Ford
+470,Vehicle Crossing Zebra Line,NL 01 OQ 6919,Vardaniya,50,11,37,2010,Maruti
+471,Vehicle Moving in Marked Area,AS 24 KC 6677,Madhav,50,16,36,2014,Toyota
+472,Red Light Violation Detection,AP 16 XY 4497,Ehsaan,50,42,33,2015,Maruti
+473,Driving Under the Influence (DUI),RJ 49 OU 3074,Ishaan,120,13,37,2013,Nissan
+474,Not Wearing Seat Belts,OD 04 PS 2465,Sumer,120,68,60,2011,Nissan
+475,Red Light Violation Detection,NL 01 OQ 6919,Vardaniya,80,20,37,2010,Maruti
+476,Triple Ride,MN 04 NU 8777,Chirag,50,39,37,2012,Toyota
+477,Red Light Violation Detection,TN 11 MJ 4284,Urvi,100,37,36,2015,Renault
+478,Red Light Violation Detection,AN 01 VC 4816,Jivika,100,88,27,2011,Hyundai
+479,Reckless Driving,AP 21 BV 4528,Kaira,50,34,19,2024,Ford
+480,Driving Under the Influence (DUI),TN 40 GN 7411,Aaryahi,100,32,22,2016,Maruti
+481,Vehicle Moving in Marked Area,ML 09 PQ 6114,Mamooty,50,13,30,2017,Renault
+482,Red Light Violation Detection,OD 35 ZR 9821,Riaan,120,81,18,2022,Hyundai
+483,Reckless Driving,MP 50 UF 3765,Elakshi,50,18,18,2012,Tata
+484,Over Speed,UP 59 WX 0804,Lagan,50,51,22,2018,Ford
+485,Over Speed,PB 24 RV 6713,Inaaya,120,141,25,2024,Tata
+486,Triple Ride,SK 04 LB 5363,Anahi,50,25,31,2023,Renault
+487,Triple Ride,AP 21 RR 3786,Kiaan,80,30,20,2014,Tata
+488,Wrong Licence Plate,DL 13 SX 3154,Stuvan,120,22,28,2021,Toyota
+489,No Helmet,MH 04 OV 8836,Misha,100,71,20,2015,Honda
+490,No Helmet,GJ 29 GK 7066,Priyansh,100,31,23,2019,Ford
+491,Driving Under the Influence (DUI),TN 80 OH 4397,Saira,120,74,25,2022,Honda
+492,No Helmet,WB 09 MD 4091,Nakul,100,28,40,2013,Renault
+493,Triple Ride,LA 01 JL 6323,Hansh,100,88,39,2012,Ford
+494,Hit and Run,GJ 07 GQ 5406,Zaina,100,17,24,2014,Hyundai
+495,Wrong Way Detection,MN 06 JL 9315,Bhavin,80,59,24,2012,Ford
+496,Vehicle Crossing Zebra Line,AN 01 QQ 1524,Madhav,50,27,36,2012,Maruti
+497,Reckless Driving,KA 14 VM 3580,Hazel,100,19,21,2014,Toyota
+498,Not Wearing Seat Belts,LA 02 VZ 7281,Shanaya,120,79,33,2021,Tata
+499,Not Wearing Seat Belts,KA 32 VY 1344,Chirag,80,47,37,2018,Nissan
+500,Wrong Licence Plate,GJ 28 OT 0179,Piya,80,77,38,2011,Maruti
+501,Triple Ride,MH 22 UW 2887,Shray,120,28,28,2017,Ford
+502,Hit and Run,JH 23 QR 0736,Nakul,50,19,40,2013,Nissan
+503,Vehicle Moving in Marked Area,MZ 06 TD 8599,Ivan,100,12,25,2014,Ford
+504,Red Light Violation Detection,NL 01 CW 0018,Rhea,50,13,21,2016,Skoda
+505,No Helmet,TS 01 CP 1323,Kartik,120,51,33,2010,Maruti
+506,No Helmet,LA 02 ZO 1332,Indranil,120,97,23,2017,Skoda
+507,Vehicle Crossing Zebra Line,RJ 43 UF 0168,Yasmin,120,111,29,2023,Tata
+508,Driving Under the Influence (DUI),ML 02 XV 8950,Ela,100,11,44,2016,Tata
+509,Hit and Run,BR 34 YT 8544,Lavanya,100,24,28,2012,Nissan
+510,Over Speed,GJ 20 AU 2729,Yakshit,80,143,38,2016,Maruti
+511,Red Light Violation Detection,JH 23 QR 0736,Nakul,80,64,40,2013,Nissan
+512,Driving Under the Influence (DUI),MH 05 EJ 9599,Shlok,80,42,28,2017,Hyundai
+513,Hit and Run,ML 05 BD 4757,Oorja,120,30,33,2010,Nissan
+514,Wrong Licence Plate,MZ 04 VC 9710,Romil,80,27,25,2022,Toyota
+515,Reckless Driving,PY 01 PE 4364,Sana,50,37,27,2018,Renault
+516,Hit and Run,LA 01 RQ 7330,Samarth,120,32,21,2021,Nissan
+517,Triple Ride,KL 81 HY 7791,Vaibhav,50,48,27,2014,Nissan
+518,Triple Ride,AN 01 TX 3968,Zara,50,49,35,2014,Renault
+519,Not Wearing Seat Belts,GJ 08 DN 5171,Nitya,100,53,38,2021,Mahindra
+520,Over Speed,AN 01 FF 9015,Taimur,80,84,38,2015,Toyota
+521,Not Wearing Seat Belts,MZ 03 ZN 7693,Sara,80,32,45,2021,Tata
+522,Vehicle Crossing Zebra Line,AP 24 RR 0422,Yuvraj,50,41,39,2014,Maruti
+523,Not Wearing Seat Belts,AR 01 VM 5615,Pihu,100,51,31,2019,Honda
+524,Triple Ride,JH 07 OU 7283,Shray,80,75,28,2023,Tata
+525,Triple Ride,OD 04 FD 8326,Seher,120,115,18,2014,Mahindra
+526,Wrong Way Detection,AN 01 PT 7934,Ela,120,85,44,2016,Nissan
+527,Reckless Driving,GJ 28 OT 0179,Piya,120,76,38,2011,Maruti
+528,Wrong Way Detection,UK 03 YO 9396,Damini,100,13,40,2011,Tata
+529,Hit and Run,CH 03 HY 6609,Taran,80,76,24,2014,Tata
+530,Over Speed,AN 01 XW 3434,Yuvaan,100,140,26,2012,Mahindra
+531,Wrong Licence Plate,WB 56 BE 7995,Manikya,100,98,50,2020,Honda
+532,Triple Ride,HP 80 SL 7730,Shray,50,44,28,2012,Honda
+533,Over Speed,UP 45 RK 1279,Manikya,100,153,50,2010,Mahindra
+534,Triple Ride,PB 75 BJ 9197,Vritika,100,100,27,2018,Tata
+535,Not Wearing Seat Belts,HP 64 EW 2147,Samarth,120,38,21,2024,Nissan
+536,Not Wearing Seat Belts,UP 19 JK 8545,Purab,80,59,26,2022,Nissan
+537,Not Wearing Seat Belts,MH 01 NE 2308,Vidur,100,67,24,2010,Renault
+538,Red Light Violation Detection,DL 10 MJ 6338,Yashvi,100,83,20,2012,Skoda
+539,Wrong Licence Plate,GJ 30 JT 8734,Kismat,80,31,40,2024,Nissan
+540,Not Wearing Seat Belts,SK 05 AE 2498,Samiha,80,75,22,2023,Renault
+541,Driving Under the Influence (DUI),MZ 01 FS 2415,Inaaya,120,51,25,2024,Maruti
+542,Wrong Licence Plate,AR 01 VM 5615,Pihu,120,86,31,2019,Honda
+543,Driving Under the Influence (DUI),MN 02 AM 0867,Lakshit,80,11,21,2021,Toyota
+544,Reckless Driving,AN 01 EM 3565,Rasha,50,32,23,2020,Maruti
+545,Wrong Way Detection,AR 01 VM 5615,Pihu,100,46,31,2019,Honda
+546,No Helmet,SK 03 MO 3242,Ranbir,100,66,26,2020,Skoda
+547,Reckless Driving,CH 03 KU 9789,Krish,50,37,26,2011,Nissan
+548,Hit and Run,MN 02 AM 0867,Lakshit,50,15,21,2021,Toyota
+549,Driving Under the Influence (DUI),KA 56 OA 3582,Rasha,120,98,23,2017,Tata
+550,Driving Under the Influence (DUI),MP 50 UF 3765,Elakshi,80,13,18,2012,Tata
+551,Not Wearing Seat Belts,CG 12 DA 9974,Baiju,100,77,39,2017,Tata
+552,Triple Ride,ML 02 WS 0417,Manikya,50,13,50,2013,Renault
+553,Wrong Way Detection,GJ 14 YX 4055,Manjari,50,20,44,2020,Honda
+554,Triple Ride,DL 10 MJ 6338,Yashvi,100,65,20,2012,Skoda
+555,Vehicle Moving in Marked Area,KL 73 CC 2434,Neysa,80,71,25,2010,Toyota
+556,Wrong Licence Plate,AN 01 WF 5688,Taimur,50,22,38,2015,Toyota
+557,Triple Ride,HP 62 TO 0449,Aayush,100,100,22,2012,Honda
+558,Red Light Violation Detection,HP 80 SL 7730,Shray,100,34,28,2012,Honda
+559,Wrong Way Detection,KA 50 JK 0580,Aarna,120,104,22,2013,Nissan
+560,Not Wearing Seat Belts,PB 43 AH 7116,Eva,120,98,25,2022,Mahindra
+561,Vehicle Moving in Marked Area,MN 06 ZW 4049,Inaaya,100,44,25,2024,Maruti
+562,Triple Ride,JH 23 QR 0736,Nakul,100,56,40,2013,Nissan
+563,Wrong Way Detection,NL 10 CP 7112,Rhea,120,35,21,2013,Renault
+564,Driving Under the Influence (DUI),SK 03 MO 3242,Ranbir,80,76,26,2020,Skoda
+565,Driving Under the Influence (DUI),WB 87 XJ 2625,Adah,120,87,24,2010,Skoda
+566,Wrong Way Detection,AN 01 QQ 1524,Madhav,100,66,36,2012,Maruti
+567,Not Wearing Seat Belts,HP 89 JH 2577,Alisha,50,31,18,2024,Toyota
+568,No Helmet,LA 02 AE 9571,Elakshi,50,27,18,2024,Nissan
+569,Reckless Driving,PB 14 CF 8084,Ryan,50,11,30,2023,Honda
+570,Reckless Driving,ML 05 RX 3918,Dishani,50,44,40,2012,Hyundai
+571,No Helmet,ML 02 WS 0417,Manikya,100,88,50,2013,Renault
+572,Not Wearing Seat Belts,UK 04 AT 1372,Vivaan,100,15,26,2021,Skoda
+573,Triple Ride,KA 28 OF 2890,Aarush,50,20,37,2015,Renault
+574,Wrong Licence Plate,CH 03 WA 9063,Kashvi,80,57,36,2014,Nissan
+575,Hit and Run,HP 89 JH 2577,Alisha,80,11,18,2024,Toyota
+576,Wrong Licence Plate,ML 05 UW 0603,Miraan,80,38,28,2018,Ford
+577,Wrong Way Detection,MH 01 NE 2308,Vidur,120,103,24,2010,Renault
+578,Reckless Driving,AP 21 BV 4528,Kaira,50,42,19,2024,Ford
+579,No Helmet,AP 16 XY 4497,Ehsaan,80,18,33,2015,Maruti
+580,Wrong Licence Plate,AN 01 FF 9015,Taimur,80,18,38,2015,Toyota
+581,No Helmet,GA 03 AL 8770,Anika,100,33,22,2014,Renault
+582,Wrong Way Detection,AR 17 QH 2139,Rati,100,12,25,2012,Maruti
+583,Vehicle Crossing Zebra Line,MN 06 NA 2043,Nitya,50,50,38,2022,Nissan
+584,No Helmet,TS 13 VM 6639,Vanya,120,100,23,2016,Hyundai
+585,Vehicle Crossing Zebra Line,PY 04 FK 3726,Dhanush,50,31,20,2014,Skoda
+586,Driving Under the Influence (DUI),HR 91 CN 2620,Elakshi,80,65,18,2024,Nissan
+587,No Helmet,CH 03 HY 6609,Taran,80,45,24,2014,Tata
+588,No Helmet,CH 03 MM 4625,Nirvi,80,56,44,2018,Maruti
+589,Red Light Violation Detection,WB 09 MD 4091,Nakul,50,10,40,2013,Renault
+590,Triple Ride,MH 04 OV 8836,Misha,100,75,20,2015,Honda
+591,Triple Ride,AR 12 AT 4406,Mehul,120,104,33,2013,Toyota
+592,Not Wearing Seat Belts,TR 01 BD 6873,Indranil,100,81,23,2010,Mahindra
+593,Driving Under the Influence (DUI),AN 01 HM 4404,Hiran,80,24,37,2022,Skoda
+594,Wrong Way Detection,OD 24 VD 5282,Kartik,80,21,33,2015,Toyota
+595,Triple Ride,NL 01 CW 0018,Rhea,80,76,21,2016,Skoda
+596,Driving Under the Influence (DUI),JH 23 QR 0736,Nakul,80,26,40,2013,Nissan
+597,Vehicle Moving in Marked Area,TS 28 JZ 6443,Farhan,80,42,44,2014,Mahindra
+598,Not Wearing Seat Belts,MN 04 BJ 4775,Armaan,120,94,18,2024,Renault
+599,Red Light Violation Detection,LA 02 ZO 1332,Indranil,50,14,23,2017,Skoda
+600,Over Speed,TS 01 CP 1323,Kartik,120,151,33,2010,Maruti
+601,Reckless Driving,AN 01 QQ 1524,Madhav,100,97,36,2012,Maruti
+602,Driving Under the Influence (DUI),AS 06 QL 0017,Kashvi,80,66,36,2024,Renault
+603,Driving Under the Influence (DUI),OD 04 FD 8326,Seher,50,12,18,2014,Mahindra
+604,Triple Ride,GJ 02 AJ 8999,Eshani,80,66,28,2014,Renault
+605,Hit and Run,PB 43 AH 7116,Eva,50,28,25,2022,Mahindra
+606,Hit and Run,TR 04 TR 4804,Hansh,100,88,39,2019,Ford
+607,No Helmet,MH 05 EJ 9599,Shlok,100,14,28,2017,Hyundai
+608,Triple Ride,GA 11 FW 5101,Sara,120,99,45,2022,Mahindra
+609,Vehicle Moving in Marked Area,GJ 07 GQ 5406,Zaina,50,31,24,2014,Hyundai
+610,No Helmet,MZ 04 MD 5314,Shayak,80,37,36,2011,Ford
+611,Not Wearing Seat Belts,KA 17 VM 4686,Madhup,100,92,36,2022,Maruti
+612,Hit and Run,PB 47 EZ 1400,Devansh,100,48,30,2010,Ford
+613,Wrong Way Detection,KA 29 RA 2210,Jhanvi,120,79,22,2024,Mahindra
+614,Wrong Licence Plate,AR 10 SU 9362,Rhea,120,27,21,2023,Maruti
+615,Vehicle Crossing Zebra Line,LA 02 XP 6254,Madhav,50,24,36,2023,Mahindra
+616,Not Wearing Seat Belts,AN 01 EM 3565,Rasha,100,78,23,2020,Maruti
+617,Vehicle Crossing Zebra Line,GJ 07 GQ 5406,Zaina,80,24,24,2014,Hyundai
+618,Vehicle Crossing Zebra Line,UP 59 WX 0804,Lagan,80,43,22,2018,Ford
+619,Red Light Violation Detection,AN 01 CZ 6297,Rania,100,55,37,2012,Toyota
+620,Wrong Licence Plate,TR 01 BD 6873,Indranil,80,16,23,2010,Mahindra
+621,Reckless Driving,AP 21 BV 4528,Kaira,80,21,19,2024,Ford
+622,Vehicle Crossing Zebra Line,SK 04 RO 0777,Ehsaan,50,39,33,2015,Maruti
+623,Red Light Violation Detection,GJ 28 OT 0179,Piya,50,49,38,2011,Maruti
+624,Wrong Licence Plate,LA 01 RQ 7330,Samarth,50,45,21,2021,Nissan
+625,Wrong Way Detection,WB 33 RY 1723,Bhavin,120,76,24,2012,Nissan
+626,Not Wearing Seat Belts,HR 46 HN 3083,Darshit,100,96,33,2016,Skoda
+627,Hit and Run,WB 33 RY 1723,Bhavin,80,12,24,2012,Nissan
+628,Wrong Licence Plate,AR 01 VM 5615,Pihu,120,12,31,2019,Honda
+629,Wrong Way Detection,UP 67 CT 6087,Aarna,50,20,22,2013,Skoda
+630,Wrong Licence Plate,HR 08 VQ 6196,Dhanush,80,29,20,2014,Maruti
+631,Hit and Run,TN 80 OH 4397,Saira,50,49,25,2022,Honda
+632,Vehicle Moving in Marked Area,UK 11 PC 5005,Indranil,80,49,23,2014,Nissan
+633,No Helmet,HP 61 NJ 1174,Ivana,120,115,51,2011,Tata
+634,Wrong Way Detection,UK 13 ZD 3216,Indranil,120,97,23,2014,Nissan
+635,Over Speed,AP 21 BV 4528,Kaira,80,113,19,2024,Ford
+636,Not Wearing Seat Belts,GA 01 WN 9464,Kashvi,50,20,36,2010,Skoda
+637,Hit and Run,AR 17 QH 2139,Rati,100,88,25,2012,Maruti
+638,Over Speed,HP 89 JH 2577,Alisha,120,121,18,2024,Toyota
+639,Not Wearing Seat Belts,OD 04 FD 8326,Seher,50,45,18,2014,Mahindra
+640,Red Light Violation Detection,SK 05 AE 2498,Samiha,50,47,22,2023,Renault
+641,Triple Ride,KA 50 JK 0580,Aarna,100,63,22,2013,Nissan
+642,Vehicle Crossing Zebra Line,MH 10 UB 5236,Abram,100,27,33,2022,Honda
+643,Reckless Driving,UK 18 KI 9140,Tejas,100,22,22,2018,Tata
+644,Not Wearing Seat Belts,AR 08 QV 6889,Rhea,80,27,21,2024,Honda
+645,Driving Under the Influence (DUI),TS 31 EC 6935,Neysa,80,60,25,2018,Toyota
+646,Vehicle Crossing Zebra Line,GJ 39 SI 7686,Ayesha,120,115,35,2014,Ford
+647,Wrong Licence Plate,UK 02 RX 6331,Aarna,50,49,22,2011,Tata
+648,Red Light Violation Detection,MN 04 SI 5642,Shray,100,63,28,2022,Honda
+649,Hit and Run,GA 06 BJ 6514,Yashvi,80,26,20,2011,Tata
+650,Driving Under the Influence (DUI),GJ 05 NS 6780,Pihu,80,15,31,2022,Nissan
+651,Wrong Licence Plate,GJ 08 DN 5171,Nitya,120,21,38,2021,Mahindra
+652,Vehicle Moving in Marked Area,UP 19 JK 8545,Purab,100,26,26,2022,Nissan
+653,Vehicle Moving in Marked Area,HR 46 HN 3083,Darshit,100,99,33,2016,Skoda
+654,Driving Under the Influence (DUI),GA 11 FW 5101,Sara,100,37,45,2022,Mahindra
+655,Over Speed,NL 04 UG 8312,Badal,120,128,26,2023,Renault
+656,Triple Ride,MH 22 UW 2887,Shray,50,30,28,2017,Ford
+657,Over Speed,MH 40 YG 6091,Veer,120,145,32,2014,Tata
+658,Reckless Driving,ML 04 ZM 4492,Damini,120,102,40,2016,Honda
+659,Wrong Licence Plate,AN 01 VC 4816,Jivika,100,14,27,2011,Hyundai
+660,Wrong Licence Plate,KL 30 XJ 2088,Ojas,100,73,32,2023,Ford
+661,Red Light Violation Detection,SK 04 LB 5363,Anahi,50,27,31,2023,Renault
+662,Vehicle Moving in Marked Area,GA 09 KY 2096,Faiyaz,50,11,25,2020,Ford
+663,Over Speed,LA 01 KF 1995,Jivin,120,155,55,2017,Skoda
+664,Vehicle Moving in Marked Area,WB 33 RY 1723,Bhavin,50,11,24,2012,Nissan
+665,Wrong Licence Plate,SK 08 KD 1441,Rasha,120,22,23,2016,Nissan
+666,Red Light Violation Detection,TN 80 OH 4397,Saira,50,13,25,2022,Honda
+667,Red Light Violation Detection,CG 07 YU 7737,Keya,120,74,55,2010,Maruti
+668,Hit and Run,MN 06 JL 9315,Bhavin,80,78,24,2012,Ford
+669,Vehicle Crossing Zebra Line,OD 04 FD 8326,Seher,50,11,18,2014,Mahindra
+670,No Helmet,JH 10 ZY 3054,Trisha,100,97,32,2012,Mahindra
+671,Driving Under the Influence (DUI),HR 68 DT 7854,Kiaan,80,69,20,2022,Hyundai
+672,Wrong Licence Plate,CH 04 TP 8178,Anvi,120,109,18,2021,Mahindra
+673,Over Speed,HP 89 JH 2577,Alisha,120,159,18,2024,Toyota
+674,Over Speed,ML 07 JA 4392,Ranbir,80,142,26,2024,Nissan
+675,Wrong Way Detection,MZ 04 MD 5314,Shayak,80,69,36,2011,Ford
+676,Hit and Run,TN 40 GN 7411,Aaryahi,80,13,22,2016,Maruti
+677,Driving Under the Influence (DUI),UK 02 RX 6331,Aarna,100,78,22,2011,Tata
+678,Triple Ride,HP 62 TO 0449,Aayush,80,24,22,2012,Honda
+679,Wrong Way Detection,UK 04 AT 1372,Vivaan,50,11,26,2021,Skoda
+680,Triple Ride,KA 50 JK 0580,Aarna,120,99,22,2013,Nissan
+681,Red Light Violation Detection,CG 27 ND 8699,Jhanvi,50,25,22,2022,Maruti
+682,Not Wearing Seat Belts,LA 02 ZO 1332,Indranil,120,45,23,2017,Skoda
+683,Wrong Licence Plate,UP 13 YV 7710,Yuvaan,50,14,26,2024,Nissan
+684,Vehicle Moving in Marked Area,AN 01 QQ 1524,Madhav,100,68,36,2012,Maruti
+685,Driving Under the Influence (DUI),TS 13 VM 6639,Vanya,120,16,23,2016,Hyundai
+686,Not Wearing Seat Belts,MH 10 UB 5236,Abram,100,26,33,2022,Honda
+687,Wrong Licence Plate,TR 07 HT 1393,Ryan,80,77,30,2016,Skoda
+688,No Helmet,MP 52 TY 6026,Neelofar,50,44,24,2019,Skoda
+689,Reckless Driving,CH 03 MM 4625,Nirvi,80,23,44,2018,Maruti
+690,Reckless Driving,LA 01 RQ 7330,Samarth,120,69,21,2021,Nissan
+691,Wrong Way Detection,HP 61 NJ 1174,Ivana,80,28,51,2011,Tata
+692,Hit and Run,GJ 08 DN 5171,Nitya,80,35,38,2021,Mahindra
+693,Vehicle Moving in Marked Area,BR 34 YT 8544,Lavanya,100,87,28,2012,Nissan
+694,Reckless Driving,ML 02 WS 0417,Manikya,80,18,50,2013,Renault
+695,Wrong Licence Plate,MH 51 BE 3008,Dishani,100,35,40,2012,Hyundai
+696,Triple Ride,MP 52 TY 6026,Neelofar,120,85,24,2019,Skoda
+697,Hit and Run,CH 03 HY 6609,Taran,120,97,24,2014,Tata
+698,Vehicle Crossing Zebra Line,DD 03 GI 3693,Neelofar,120,14,24,2017,Toyota
+699,Vehicle Moving in Marked Area,UK 17 RZ 2988,Ishaan,50,42,37,2018,Maruti
+700,Red Light Violation Detection,ML 07 GI 3768,Pihu,100,97,31,2011,Skoda
+701,Wrong Licence Plate,MZ 03 ZN 7693,Sara,120,111,45,2021,Tata
+702,Red Light Violation Detection,AS 23 DX 6097,Kiara,100,25,24,2024,Maruti
+703,Over Speed,MN 04 SI 5642,Shray,100,125,28,2022,Honda
+704,Vehicle Moving in Marked Area,CH 04 TP 8178,Anvi,80,50,18,2021,Mahindra
+705,Not Wearing Seat Belts,ML 03 EG 5004,Parinaaz,80,42,31,2023,Hyundai
+706,Vehicle Crossing Zebra Line,MH 22 UW 2887,Shray,50,27,28,2017,Ford
+707,Triple Ride,ML 07 GI 3768,Pihu,50,39,31,2011,Skoda
+708,Reckless Driving,HR 52 BK 8333,Tushar,50,23,28,2019,Tata
+709,Not Wearing Seat Belts,OD 04 FD 8326,Seher,80,15,18,2014,Mahindra
+710,Red Light Violation Detection,PY 04 BL 7845,Jhanvi,80,21,22,2016,Skoda
+711,No Helmet,PY 03 AF 9073,Tushar,80,31,28,2019,Tata
+712,Red Light Violation Detection,SK 05 RV 6688,Vardaniya,50,50,37,2015,Tata
+713,Vehicle Moving in Marked Area,DL 12 QW 4639,Shamik,120,23,33,2010,Mahindra
+714,Wrong Way Detection,DD 03 GI 3693,Neelofar,120,55,24,2017,Toyota
+715,Vehicle Crossing Zebra Line,ML 05 RX 3918,Dishani,50,26,40,2012,Hyundai
+716,Driving Under the Influence (DUI),ML 05 BD 4757,Oorja,100,67,33,2010,Nissan
+717,Red Light Violation Detection,MH 46 QG 1749,Kiara,50,13,24,2014,Ford
+718,Over Speed,PB 26 WC 9915,Aaina,100,114,21,2010,Maruti
+719,Driving Under the Influence (DUI),TS 28 JZ 6443,Farhan,50,29,44,2014,Mahindra
+720,Driving Under the Influence (DUI),UP 01 WJ 1792,Neelofar,50,38,24,2014,Maruti
+721,Red Light Violation Detection,NL 10 CP 7112,Rhea,100,60,21,2013,Renault
+722,Driving Under the Influence (DUI),MN 03 YM 1482,Purab,50,31,26,2024,Nissan
+723,Reckless Driving,KL 09 ZH 5026,Madhup,50,48,36,2024,Ford
+724,Triple Ride,TR 04 VV 3439,Indrans,120,92,28,2012,Toyota
+725,Wrong Licence Plate,UP 59 WX 0804,Lagan,120,84,22,2018,Ford
+726,Reckless Driving,MH 38 EI 1135,Reyansh,80,67,26,2011,Tata
+727,Vehicle Moving in Marked Area,PY 01 PE 4364,Sana,80,42,27,2018,Renault
+728,Driving Under the Influence (DUI),GA 12 AR 8089,Charvi,120,80,23,2014,Ford
+729,Triple Ride,DD 01 JK 1805,Kismat,120,20,40,2010,Renault
+730,Vehicle Moving in Marked Area,MN 04 NU 8777,Chirag,80,28,37,2012,Toyota
+731,Not Wearing Seat Belts,UK 04 AT 1372,Vivaan,120,26,26,2021,Skoda
+732,Wrong Way Detection,MN 02 AM 0867,Lakshit,120,31,21,2021,Toyota
+733,Driving Under the Influence (DUI),CG 07 YU 7737,Keya,80,44,55,2010,Maruti
+734,Red Light Violation Detection,PY 01 PE 4364,Sana,100,62,27,2018,Renault
+735,Wrong Way Detection,PY 01 FQ 6474,Mamooty,50,33,30,2017,Ford
+736,Not Wearing Seat Belts,DL 06 MS 9819,Vihaan,50,48,33,2017,Nissan
+737,Not Wearing Seat Belts,AN 01 TX 3968,Zara,120,68,35,2014,Renault
+738,Not Wearing Seat Belts,CG 02 BD 0279,Priyansh,50,10,23,2015,Maruti
+739,Over Speed,HR 68 DT 7854,Kiaan,80,138,20,2022,Hyundai
+740,Triple Ride,PB 43 AH 7116,Eva,100,26,25,2022,Mahindra
+741,Not Wearing Seat Belts,MH 01 NE 2308,Vidur,80,46,24,2010,Renault
+742,Over Speed,GA 01 WN 9464,Kashvi,120,130,36,2010,Skoda
+743,Hit and Run,PY 01 FQ 6474,Mamooty,80,16,30,2017,Ford
+744,Red Light Violation Detection,ML 02 DO 7748,Amira,50,29,24,2014,Toyota
+745,Vehicle Crossing Zebra Line,JH 03 QG 6669,Kashvi,120,78,36,2011,Ford
+746,Vehicle Moving in Marked Area,UK 13 ZD 3216,Indranil,120,61,23,2014,Nissan
+747,No Helmet,KL 30 XJ 2088,Ojas,100,43,32,2023,Ford
+748,Not Wearing Seat Belts,PY 04 BL 7845,Jhanvi,80,65,22,2016,Skoda
+749,Wrong Way Detection,HR 08 VQ 6196,Dhanush,80,19,20,2014,Maruti
+750,Hit and Run,MZ 04 DB 5956,Neelofar,100,94,24,2020,Maruti
+751,Vehicle Moving in Marked Area,OD 04 FD 8326,Seher,80,64,18,2014,Mahindra
+752,No Helmet,TS 13 VM 6639,Vanya,80,14,23,2016,Hyundai
+753,Triple Ride,UP 13 YV 7710,Yuvaan,80,62,26,2024,Nissan
+754,Not Wearing Seat Belts,DL 09 AP 9514,Divyansh,50,25,41,2011,Nissan
+755,Not Wearing Seat Belts,HP 64 EW 2147,Samarth,100,61,21,2024,Nissan
+756,Driving Under the Influence (DUI),NL 10 CP 7112,Rhea,50,50,21,2013,Renault
+757,Vehicle Moving in Marked Area,CG 02 BD 0279,Priyansh,100,76,23,2015,Maruti
+758,Wrong Way Detection,BR 24 DG 3002,Misha,50,15,20,2024,Maruti
+759,Over Speed,KL 81 HY 7791,Vaibhav,100,128,27,2014,Nissan
+760,Over Speed,MP 52 TY 6026,Neelofar,50,137,24,2019,Skoda
+761,Hit and Run,UK 04 AT 1372,Vivaan,100,54,26,2021,Skoda
+762,No Helmet,UK 04 AT 1372,Vivaan,120,119,26,2021,Skoda
+763,Reckless Driving,AS 24 KC 6677,Madhav,120,72,36,2014,Toyota
+764,Triple Ride,TR 07 HT 1393,Ryan,50,48,30,2016,Skoda
+765,Vehicle Moving in Marked Area,CH 03 HY 6609,Taran,100,86,24,2014,Tata
+766,Red Light Violation Detection,RJ 54 RB 0199,Divij,80,10,36,2018,Toyota
+767,Vehicle Crossing Zebra Line,MP 50 UF 3765,Elakshi,100,95,18,2012,Tata
+768,Not Wearing Seat Belts,ML 05 UW 0603,Miraan,100,45,28,2018,Ford
+769,Hit and Run,OD 02 NM 0515,Advik,120,89,33,2022,Tata
+770,Reckless Driving,TR 04 TR 4804,Hansh,100,36,39,2019,Ford
+771,Vehicle Moving in Marked Area,UK 04 AT 1372,Vivaan,120,55,26,2021,Skoda
+772,Red Light Violation Detection,BR 38 LQ 3471,Nirvi,120,92,44,2012,Maruti
+773,No Helmet,HP 61 NJ 1174,Ivana,50,50,51,2011,Tata
+774,Hit and Run,GJ 02 AJ 8999,Eshani,120,88,28,2014,Renault
+775,Driving Under the Influence (DUI),DL 12 QW 4639,Shamik,100,60,44,2011,Honda
+776,Vehicle Crossing Zebra Line,MH 22 UW 2887,Shray,80,10,28,2017,Ford
+777,Red Light Violation Detection,MN 06 JL 9315,Bhavin,120,84,24,2012,Ford
+778,Wrong Way Detection,ML 07 GI 3768,Pihu,120,11,31,2011,Skoda
+779,Vehicle Moving in Marked Area,RJ 54 RB 0199,Divij,80,62,36,2018,Toyota
+780,Triple Ride,SK 04 LB 5363,Anahi,50,15,31,2023,Renault
+781,Over Speed,CH 03 WA 9063,Kashvi,100,111,36,2014,Nissan
+782,Wrong Way Detection,AN 01 FP 6072,Jayesh,120,50,40,2021,Toyota
+783,Wrong Way Detection,GA 03 AL 8770,Anika,120,63,22,2014,Renault
+784,Red Light Violation Detection,UP 19 JK 8545,Purab,80,34,26,2022,Nissan
+785,Triple Ride,ML 07 JA 4392,Ranbir,120,16,26,2024,Nissan
+786,Wrong Licence Plate,KL 22 RR 0325,Nitya,50,43,38,2014,Tata
+787,Wrong Licence Plate,MH 04 OV 8836,Misha,50,17,20,2015,Honda
+788,Reckless Driving,SK 08 YN 7753,Vardaniya,50,16,37,2020,Nissan
+789,Hit and Run,DL 12 QW 4639,Shamik,80,80,44,2011,Honda
+790,Driving Under the Influence (DUI),TR 06 YV 6483,Darshit,80,68,33,2022,Skoda
+791,Wrong Licence Plate,LA 02 BY 7918,Ivana,120,94,51,2010,Ford
+792,Vehicle Moving in Marked Area,MH 51 BE 3008,Dishani,120,109,40,2012,Hyundai
+793,Red Light Violation Detection,HR 08 VQ 6196,Dhanush,100,18,20,2014,Maruti
+794,Reckless Driving,LA 02 BY 7918,Ivana,80,22,51,2010,Ford
+795,No Helmet,OD 04 FD 8326,Seher,120,100,18,2014,Mahindra
+796,Over Speed,MN 07 CP 7176,Diya,50,155,29,2020,Toyota
+797,Over Speed,UP 45 RK 1279,Manikya,80,155,50,2010,Mahindra
+798,Not Wearing Seat Belts,HP 84 XC 2134,Kiaan,100,75,20,2010,Nissan
+799,No Helmet,SK 05 RV 6688,Vardaniya,100,54,37,2015,Tata
+800,Triple Ride,CH 03 KU 9789,Krish,50,46,26,2011,Nissan
+801,Reckless Driving,HP 80 SL 7730,Shray,80,30,28,2012,Honda
+802,Triple Ride,AP 21 RR 3786,Kiaan,50,38,20,2014,Tata
+803,Wrong Licence Plate,ML 02 WS 0417,Manikya,80,15,50,2013,Renault
+804,Triple Ride,LA 02 AE 9571,Elakshi,120,26,18,2024,Nissan
+805,Not Wearing Seat Belts,AS 23 WV 7571,Himmat,80,11,31,2017,Tata
+806,Not Wearing Seat Belts,AS 24 KC 6677,Madhav,120,100,36,2014,Toyota
+807,Wrong Way Detection,ML 04 ZM 4492,Damini,120,76,40,2016,Honda
+808,No Helmet,CG 29 CP 1851,Anaya,100,31,32,2021,Ford
+809,Wrong Way Detection,MN 06 NA 2043,Nitya,120,34,38,2022,Nissan
+810,Triple Ride,BR 24 DG 3002,Misha,80,49,20,2024,Maruti
+811,Not Wearing Seat Belts,AN 01 FF 9015,Taimur,50,40,38,2015,Toyota
+812,Driving Under the Influence (DUI),GJ 29 GK 7066,Priyansh,120,51,23,2019,Ford
+813,Red Light Violation Detection,MP 52 TY 6026,Neelofar,100,98,24,2019,Skoda
+814,Reckless Driving,WB 04 GZ 0060,Mahika,50,21,50,2017,Renault
+815,Hit and Run,CH 03 HY 6609,Taran,80,33,24,2014,Tata
+816,Not Wearing Seat Belts,WB 52 GK 8960,Aaryahi,80,62,22,2016,Ford
+817,Over Speed,UK 04 AT 1372,Vivaan,100,147,26,2021,Skoda
+818,Wrong Licence Plate,SK 04 LB 5363,Anahi,80,62,31,2023,Renault
+819,Driving Under the Influence (DUI),RJ 43 UF 0168,Yasmin,100,77,29,2023,Tata
+820,Wrong Way Detection,KA 14 VM 3580,Hazel,50,35,21,2014,Toyota
+821,Triple Ride,DD 03 GI 3693,Neelofar,50,26,24,2017,Toyota
+822,Vehicle Crossing Zebra Line,DD 01 ND 9039,Hridaan,120,73,19,2023,Nissan
+823,Wrong Licence Plate,AN 01 QQ 1524,Madhav,50,16,36,2012,Maruti
+824,Driving Under the Influence (DUI),DL 05 YF 4236,Yasmin,120,35,29,2024,Hyundai
+825,Triple Ride,MH 01 NE 2308,Vidur,120,92,24,2010,Renault
+826,Triple Ride,TN 11 MJ 4284,Urvi,120,86,36,2015,Renault
+827,Over Speed,MZ 04 VC 9710,Romil,80,100,25,2022,Toyota
+828,Triple Ride,UP 19 JK 8545,Purab,80,27,26,2022,Nissan
+829,Over Speed,UK 13 ZD 3216,Indranil,120,121,23,2014,Nissan
+830,No Helmet,MN 01 SD 2928,Sahil,80,13,28,2024,Skoda
+831,Over Speed,CG 01 VE 7524,Neelofar,100,110,24,2011,Tata
+832,Wrong Licence Plate,PB 75 BJ 9197,Vritika,80,65,27,2018,Tata
+833,Reckless Driving,GA 01 WN 9464,Kashvi,100,54,36,2010,Skoda
+834,Red Light Violation Detection,UK 03 YO 9396,Damini,100,94,40,2011,Tata
+835,Reckless Driving,RJ 54 RB 0199,Divij,80,29,36,2018,Toyota
+836,No Helmet,DD 03 GI 3693,Neelofar,100,62,24,2017,Toyota
+837,Vehicle Moving in Marked Area,TR 04 VV 3439,Indrans,50,42,28,2012,Toyota
+838,Hit and Run,GJ 28 OT 0179,Piya,50,49,38,2011,Maruti
+839,Not Wearing Seat Belts,DL 12 MQ 6652,Krish,120,43,26,2012,Honda
+840,No Helmet,MH 46 QG 1749,Kiara,100,23,24,2014,Ford
+841,Not Wearing Seat Belts,AP 16 XY 4497,Ehsaan,120,117,33,2015,Maruti
+842,Vehicle Crossing Zebra Line,SK 04 LB 5363,Anahi,80,51,31,2023,Renault
+843,Vehicle Crossing Zebra Line,MZ 04 DB 5956,Neelofar,100,96,24,2020,Maruti
+844,No Helmet,GA 09 KY 2096,Faiyaz,100,51,25,2020,Ford
+845,Wrong Way Detection,ML 07 JA 4392,Ranbir,120,80,26,2024,Nissan
+846,Over Speed,MN 04 SI 5642,Shray,120,138,28,2022,Honda
+847,Wrong Licence Plate,BR 24 DG 3002,Misha,80,66,20,2024,Maruti
+848,Over Speed,MN 06 NA 2043,Nitya,50,77,38,2022,Nissan
+849,Triple Ride,ML 07 GI 3768,Pihu,80,22,31,2011,Skoda
+850,Wrong Licence Plate,JH 20 DP 8950,Kabir,120,69,32,2022,Ford
+851,Wrong Way Detection,LA 02 XP 6254,Madhav,80,74,36,2023,Mahindra
+852,No Helmet,KA 17 VM 4686,Madhup,80,50,36,2022,Maruti
+853,Not Wearing Seat Belts,SK 08 KD 1441,Rasha,80,27,23,2016,Nissan
+854,Driving Under the Influence (DUI),AR 01 VM 5615,Pihu,120,20,31,2019,Honda
+855,Red Light Violation Detection,MN 02 AM 0867,Lakshit,80,15,21,2021,Toyota
+856,No Helmet,BR 24 DG 3002,Misha,50,42,20,2024,Maruti
+857,Wrong Licence Plate,ML 07 JA 4392,Ranbir,80,44,26,2024,Nissan
+858,Vehicle Moving in Marked Area,HR 68 DT 7854,Kiaan,80,80,20,2022,Hyundai
+859,Red Light Violation Detection,DL 06 MS 9819,Vihaan,120,51,33,2017,Nissan
+860,No Helmet,ML 05 VG 6272,Vanya,80,28,23,2016,Hyundai
+861,Driving Under the Influence (DUI),LA 01 RQ 7330,Samarth,100,93,21,2021,Nissan
+862,Over Speed,GA 06 BJ 6514,Yashvi,50,58,20,2011,Tata
+863,Reckless Driving,UP 19 JK 8545,Purab,120,119,26,2022,Nissan
+864,No Helmet,CH 02 ME 6020,Jayant,50,45,35,2022,Skoda
+865,Reckless Driving,GJ 30 JT 8734,Kismat,120,100,40,2024,Nissan
+866,Hit and Run,GJ 14 YX 4055,Manjari,120,65,44,2020,Honda
+867,Triple Ride,UK 17 RZ 2988,Ishaan,100,69,37,2018,Maruti
+868,Not Wearing Seat Belts,PB 65 US 1552,Dhruv,80,13,20,2012,Toyota
+869,Triple Ride,HR 68 DT 7854,Kiaan,120,34,20,2022,Hyundai
+870,Over Speed,LA 02 BY 7918,Ivana,50,109,51,2010,Ford
+871,Wrong Way Detection,AR 19 YV 1157,Taran,50,14,24,2014,Tata
+872,No Helmet,SK 08 KD 1441,Rasha,80,18,23,2016,Nissan
+873,Over Speed,SK 05 BW 0495,Shaan,100,137,28,2017,Renault
+874,Driving Under the Influence (DUI),GJ 20 AU 2729,Yakshit,50,43,38,2016,Maruti
+875,Not Wearing Seat Belts,UK 18 KI 9140,Tejas,80,40,22,2018,Tata
+876,Hit and Run,PB 26 WC 9915,Aaina,100,71,21,2010,Maruti
+877,Vehicle Moving in Marked Area,ML 05 RX 3918,Dishani,100,46,40,2012,Hyundai
+878,Wrong Way Detection,WB 52 GK 8960,Aaryahi,50,20,22,2016,Ford
+879,Red Light Violation Detection,TN 64 JN 3578,Uthkarsh,100,19,38,2010,Skoda
+880,No Helmet,PB 20 OY 2610,Umang,80,59,18,2016,Renault
+881,Red Light Violation Detection,MH 10 UB 5236,Abram,120,20,33,2022,Honda
+882,Triple Ride,CH 01 LB 5119,Ira,100,37,23,2017,Skoda
+883,Hit and Run,CH 02 ME 6020,Jayant,80,61,35,2022,Skoda
+884,Over Speed,UK 18 KI 9140,Tejas,50,95,22,2018,Tata
+885,Over Speed,RJ 07 QV 1294,Mehul,50,120,33,2013,Toyota
+886,Reckless Driving,GJ 28 OT 0179,Piya,120,48,38,2011,Maruti
+887,Red Light Violation Detection,SK 04 LB 5363,Anahi,120,39,31,2023,Renault
+888,Wrong Way Detection,MH 46 QG 1749,Kiara,100,20,24,2014,Ford
+889,Red Light Violation Detection,WB 56 BE 7995,Manikya,50,14,50,2020,Honda
+890,Wrong Licence Plate,SK 05 RV 6688,Vardaniya,100,65,37,2015,Tata
+891,Triple Ride,HP 64 EW 2147,Samarth,100,80,21,2024,Nissan
+892,Red Light Violation Detection,AN 01 CZ 6297,Rania,120,114,37,2012,Toyota
+893,Vehicle Crossing Zebra Line,ML 02 XV 8950,Ela,50,40,44,2016,Tata
+894,Hit and Run,SK 03 MO 3242,Ranbir,50,20,26,2020,Skoda
+895,Over Speed,AP 24 RR 0422,Yuvraj,100,149,39,2014,Maruti
+896,Not Wearing Seat Belts,MP 50 UF 3765,Elakshi,120,117,18,2012,Tata
+897,Hit and Run,MN 04 BJ 4775,Armaan,100,71,18,2024,Renault
+898,Not Wearing Seat Belts,LA 01 KF 1995,Jivin,120,40,55,2017,Skoda
+899,Red Light Violation Detection,ML 02 TY 2446,Mahika,120,35,50,2010,Tata
+900,No Helmet,KA 28 OF 2890,Aarush,50,41,37,2015,Renault
+901,Driving Under the Influence (DUI),AR 08 QV 6889,Rhea,120,42,21,2024,Honda
+902,Over Speed,AR 01 VM 5615,Pihu,120,135,31,2019,Honda
+903,Wrong Way Detection,KL 40 YT 0574,Jayesh,50,32,40,2014,Skoda
+904,Reckless Driving,HP 89 JH 2577,Alisha,50,30,18,2024,Toyota
+905,Triple Ride,LA 01 RQ 7330,Samarth,100,31,21,2021,Nissan
+906,Hit and Run,JH 07 OU 7283,Shray,50,15,28,2023,Tata
+907,Reckless Driving,MN 04 BJ 4775,Armaan,50,20,18,2024,Renault
+908,Over Speed,KA 50 JK 0580,Aarna,120,143,22,2013,Nissan
+909,Triple Ride,TS 01 CP 1323,Kartik,100,38,33,2010,Maruti
+910,Driving Under the Influence (DUI),DD 01 ND 9039,Hridaan,50,33,19,2023,Nissan
+911,Over Speed,TN 80 OH 4397,Saira,80,139,25,2022,Honda
+912,Hit and Run,UK 18 KI 9140,Tejas,100,58,22,2018,Tata
+913,Triple Ride,MH 46 QG 1749,Kiara,50,48,24,2014,Ford
+914,Wrong Licence Plate,HP 84 XC 2134,Kiaan,80,36,20,2010,Nissan
+915,Wrong Way Detection,MH 46 QG 1749,Kiara,50,32,24,2014,Ford
+916,Triple Ride,MN 03 YM 1482,Purab,100,67,26,2024,Nissan
+917,Not Wearing Seat Belts,PY 01 EU 6653,Faiyaz,50,33,25,2010,Maruti
+918,Not Wearing Seat Belts,CG 29 CP 1851,Anaya,50,16,32,2021,Ford
+919,Red Light Violation Detection,MN 07 CP 7176,Diya,120,56,29,2020,Toyota
+920,Vehicle Crossing Zebra Line,OD 01 VH 2917,Emir,100,50,46,2014,Honda
+921,Reckless Driving,HR 46 HN 3083,Darshit,120,28,33,2016,Skoda
+922,Hit and Run,AN 01 WF 5688,Taimur,100,55,38,2015,Toyota
+923,Vehicle Crossing Zebra Line,DL 12 MQ 6652,Krish,50,35,26,2012,Honda
+924,Over Speed,JH 10 ZY 3054,Trisha,120,139,32,2012,Mahindra
+925,Hit and Run,LA 02 EY 2682,Aradhya,100,94,28,2020,Honda
+926,Driving Under the Influence (DUI),JH 03 QG 6669,Kashvi,120,100,36,2011,Ford
+927,Reckless Driving,WB 87 XJ 2625,Adah,50,21,24,2010,Skoda
+928,Not Wearing Seat Belts,AN 01 FF 9015,Taimur,50,26,38,2015,Toyota
+929,No Helmet,ML 05 VG 6272,Vanya,120,65,23,2016,Hyundai
+930,Wrong Way Detection,AP 21 RR 3786,Kiaan,50,27,20,2014,Tata
+931,Wrong Way Detection,HP 80 SL 7730,Shray,100,93,28,2012,Honda
+932,Hit and Run,MP 22 WB 5050,Eshani,100,95,28,2023,Maruti
+933,No Helmet,ML 05 VG 6272,Vanya,120,76,23,2016,Hyundai
+934,Reckless Driving,HP 61 NJ 1174,Ivana,120,29,51,2011,Tata
+935,Driving Under the Influence (DUI),JH 10 ZY 3054,Trisha,80,68,24,2024,Maruti
+936,Vehicle Crossing Zebra Line,MN 06 NA 2043,Nitya,80,26,38,2022,Nissan
+937,Reckless Driving,CG 07 YU 7737,Keya,120,20,55,2010,Maruti
+938,Reckless Driving,RJ 54 RB 0199,Divij,100,74,36,2018,Toyota
+939,Driving Under the Influence (DUI),OD 02 NM 0515,Advik,80,13,33,2022,Tata
+940,No Helmet,MH 22 UW 2887,Shray,80,36,28,2017,Ford
+941,Wrong Licence Plate,PB 20 OY 2610,Umang,100,81,18,2016,Renault
+942,No Helmet,GJ 20 AU 2729,Yakshit,100,11,38,2016,Maruti
+943,Vehicle Crossing Zebra Line,LA 02 EY 2682,Aradhya,80,33,28,2020,Honda
+944,Vehicle Moving in Marked Area,MP 50 UF 3765,Elakshi,100,24,18,2012,Tata
+945,Red Light Violation Detection,OD 35 ZR 9821,Riaan,100,29,18,2022,Hyundai
+946,No Helmet,KA 59 XD 7535,Mamooty,100,70,30,2017,Nissan
+947,Driving Under the Influence (DUI),BR 15 WK 2807,Kimaya,120,47,24,2019,Maruti
+948,Hit and Run,DD 03 GI 3693,Neelofar,50,11,24,2017,Toyota
+949,Over Speed,BR 01 ES 8969,Dharmajan,80,153,44,2012,Nissan
+950,Hit and Run,PY 04 FK 3726,Dhanush,120,15,20,2014,Skoda
+951,Triple Ride,GA 03 AL 8770,Anika,50,17,22,2014,Renault
+952,Over Speed,SK 03 MO 3242,Ranbir,50,105,26,2020,Skoda
+953,Vehicle Crossing Zebra Line,PB 28 PI 7913,Priyansh,120,26,23,2013,Ford
+954,Wrong Licence Plate,KL 09 ZH 5026,Madhup,50,47,36,2024,Ford
+955,Driving Under the Influence (DUI),CG 07 YU 7737,Keya,120,89,55,2010,Maruti
+956,No Helmet,MN 04 NU 8777,Chirag,80,60,37,2012,Toyota
+957,No Helmet,TN 11 MJ 4284,Urvi,50,44,36,2015,Renault
+958,Wrong Licence Plate,UK 11 PC 5005,Indranil,120,71,23,2014,Nissan
+959,Hit and Run,LA 02 EY 2682,Aradhya,120,20,28,2020,Honda
+960,Driving Under the Influence (DUI),UP 67 CT 6087,Aarna,50,16,22,2013,Skoda
+961,Reckless Driving,MZ 01 FS 2415,Inaaya,100,62,25,2024,Maruti
+962,Hit and Run,UP 59 WX 0804,Lagan,50,38,22,2018,Ford
+963,Wrong Licence Plate,PB 14 CF 8084,Ryan,100,97,30,2023,Honda
+964,No Helmet,GA 03 DR 7894,Faiyaz,50,28,25,2015,Nissan
+965,Wrong Way Detection,NL 01 OQ 6919,Vardaniya,100,13,37,2010,Maruti
+966,Wrong Way Detection,KA 07 BP 3461,Taran,100,72,24,2018,Maruti
+967,Not Wearing Seat Belts,KA 29 RA 2210,Jhanvi,100,45,22,2024,Mahindra
+968,No Helmet,MH 01 NE 2308,Vidur,100,85,24,2010,Renault
+969,Over Speed,HP 62 TO 0449,Aayush,50,59,22,2012,Honda
+970,Wrong Way Detection,KL 40 YT 0574,Jayesh,80,73,40,2014,Skoda
+971,Vehicle Crossing Zebra Line,GJ 07 GQ 5406,Zaina,50,39,24,2014,Hyundai
+972,Wrong Licence Plate,PY 04 BL 7845,Jhanvi,100,19,22,2016,Skoda
+973,Vehicle Moving in Marked Area,GA 03 AL 8770,Anika,80,49,22,2014,Renault
+974,Driving Under the Influence (DUI),CH 03 MM 4625,Nirvi,80,76,44,2018,Maruti
+975,No Helmet,RJ 54 RB 0199,Divij,100,40,36,2018,Toyota
+976,Red Light Violation Detection,CH 01 LB 5119,Ira,100,43,23,2017,Skoda
+977,Triple Ride,LA 02 AE 9571,Elakshi,120,11,18,2024,Nissan
+978,Not Wearing Seat Belts,MH 40 YG 6091,Veer,50,36,32,2014,Tata
+979,Over Speed,WB 09 MD 4091,Nakul,50,81,40,2013,Renault
+980,Hit and Run,AN 01 PT 7934,Ela,100,39,44,2016,Nissan
+981,Driving Under the Influence (DUI),PY 03 AF 9073,Tushar,50,37,28,2019,Tata
+982,Red Light Violation Detection,AS 23 WV 7571,Himmat,50,16,31,2017,Tata
+983,Red Light Violation Detection,AS 23 WV 7571,Himmat,100,55,31,2017,Tata
+984,No Helmet,WB 04 GZ 0060,Mahika,50,45,50,2017,Renault
+985,Wrong Licence Plate,HR 91 CN 2620,Elakshi,50,40,18,2024,Nissan
+986,No Helmet,HR 87 IV 5140,Jiya,50,14,26,2022,Hyundai
+987,Vehicle Crossing Zebra Line,SK 05 BW 0495,Shaan,100,53,28,2017,Renault
+988,Triple Ride,LA 02 BY 7918,Ivana,50,26,51,2010,Ford
+989,Hit and Run,HP 87 PF 8544,Chirag,120,29,37,2024,Renault
+990,Reckless Driving,NL 04 UG 8312,Badal,100,60,26,2023,Renault
+991,Not Wearing Seat Belts,KL 30 XJ 2088,Ojas,120,117,32,2023,Ford
+992,Red Light Violation Detection,UK 18 KI 9140,Tejas,80,21,22,2018,Tata
+993,Over Speed,UK 18 KI 9140,Tejas,120,149,22,2018,Tata
+994,Wrong Way Detection,MH 01 NE 2308,Vidur,120,26,24,2010,Renault
+995,No Helmet,WB 87 XJ 2625,Adah,50,44,24,2010,Skoda
+996,Red Light Violation Detection,SK 04 RO 0777,Ehsaan,100,55,33,2015,Maruti
+997,No Helmet,NL 01 OQ 6919,Vardaniya,80,76,37,2010,Maruti
+998,No Helmet,AS 23 DX 6097,Kiara,100,84,24,2024,Maruti
+999,Reckless Driving,JH 23 QR 0736,Nakul,50,47,40,2013,Nissan
